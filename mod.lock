@@ -3,7 +3,7 @@ schema = 1
 [pack]
   repository = "https://github.com/natimys/techmagic-modlock"
   branch = "main"
-  lock_path = "modlock.lock"
+  lock_path = "mod.lock"
   mods_dir = "mods"
 
 [[mods]]
