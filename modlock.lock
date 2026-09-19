@@ -1,0 +1,1208 @@
+schema = 1
+
+[pack]
+  repository = "https://github.com/natimys/techmagic-modlock"
+  branch = "main"
+  lock_path = "modlock.lock"
+  mods_dir = "mods"
+
+[[mods]]
+  filename = "[Neoforge-1.21.1]Accurateblockplacement 1.0.0.jar"
+  source = "modrinth"
+  project_id = "tOVrxqLR"
+  version_id = "dPlHyUJt"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/tOVrxqLR/versions/dPlHyUJt/%5BNeoforge-1.21.1%5DAccurateblockplacement%201.0.0.jar"
+
+[[mods]]
+  filename = "aeroportals-1.21.1-1.3.2.jar"
+  source = "curseforge"
+  mod_id = 1549100
+  file_id = 8759465
+  url = "https://edge.forgecdn.net/files/8759/465/aeroportals-1.21.1-1.3.2.jar"
+
+[[mods]]
+  filename = "aerowarptics-1.3.0.jar"
+  source = "curseforge"
+  mod_id = 1659672
+  file_id = 8787426
+  url = "https://edge.forgecdn.net/files/8787/426/aerowarptics-1.3.0.jar"
+
+[[mods]]
+  filename = "aerowarptics-aeroportals-compat-0.1.0.jar"
+  source = "repo"
+  mod_id = 0
+  file_id = 0
+  path = "files/mods/aerowarptics-aeroportals-compat-0.1.0.jar"
+
+[[mods]]
+  filename = "appleskin-neoforge-mc1.21-3.0.9.jar"
+  source = "modrinth"
+  project_id = "EsAfCjCV"
+  version_id = "uAKA6Laj"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar"
+
+[[mods]]
+  filename = "architectury-13.0.11-neoforge.jar"
+  source = "modrinth"
+  project_id = "lhGA9TYQ"
+  version_id = "1IiqEQGl"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1IiqEQGl/architectury-13.0.11-neoforge.jar"
+
+[[mods]]
+  filename = "ars_nouveau-1.21.1-5.13.0.jar"
+  source = "modrinth"
+  project_id = "TKB6INcv"
+  version_id = "ugLa4qlw"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/TKB6INcv/versions/ugLa4qlw/ars_nouveau-1.21.1-5.13.0.jar"
+
+[[mods]]
+  filename = "athena-neoforge-1.21.1-4.0.6.jar"
+  source = "modrinth"
+  project_id = "b1ZV3DIJ"
+  version_id = "dJgL278E"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/dJgL278E/athena-neoforge-1.21.1-4.0.6.jar"
+
+[[mods]]
+  filename = "balm-neoforge-1.21.1-21.0.65.jar"
+  source = "modrinth"
+  project_id = "MBAkmtvl"
+  version_id = "KgypwTqX"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/KgypwTqX/balm-neoforge-1.21.1-21.0.65.jar"
+
+[[mods]]
+  filename = "beautify-neoforge-1.21.1-2.0.2.jar"
+  source = "modrinth"
+  project_id = "9BPuv4vL"
+  version_id = "xVfv1ket"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/9BPuv4vL/versions/xVfv1ket/beautify-neoforge-1.21.1-2.0.2.jar"
+
+[[mods]]
+  filename = "blockui-1.0.211-1.21.1-snapshot.jar"
+  source = "curseforge"
+  mod_id = 522992
+  file_id = 7790469
+  url = "https://edge.forgecdn.net/files/7790/469/blockui-1.0.211-1.21.1-snapshot.jar"
+
+[[mods]]
+  filename = "bookshelf-neoforge-1.21.1-21.1.81.jar"
+  source = "modrinth"
+  project_id = "uy4Cnpcm"
+  version_id = "1sdJl7J1"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/uy4Cnpcm/versions/1sdJl7J1/bookshelf-neoforge-1.21.1-21.1.81.jar"
+
+[[mods]]
+  filename = "born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar"
+  source = "modrinth"
+  project_id = "1kcHy4de"
+  version_id = "ttcWWp3r"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/1kcHy4de/versions/ttcWWp3r/born_in_chaos_%5BNeoforge%5D_1.21.1_1.7.6.jar"
+
+[[mods]]
+  filename = "c2me-neoforge-mc1.21.1-0.4.0-alpha.0.120.jar"
+  source = "modrinth"
+  project_id = "COlSi5iR"
+  version_id = "kvrPcTsz"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/COlSi5iR/versions/kvrPcTsz/c2me-neoforge-mc1.21.1-0.4.0-alpha.0.120.jar"
+
+[[mods]]
+  filename = "carryon-neoforge-1.21.1-2.2.6.13.jar"
+  source = "modrinth"
+  project_id = "joEfVgkn"
+  version_id = "PV8oLZ1q"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/joEfVgkn/versions/PV8oLZ1q/carryon-neoforge-1.21.1-2.2.6.13.jar"
+
+[[mods]]
+  filename = "cave_dweller-1.4-rc2.jar"
+  source = "modrinth"
+  project_id = "82njC4TT"
+  version_id = "bdzL1Nsp"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/82njC4TT/versions/bdzL1Nsp/cave_dweller-1.4-rc2.jar"
+
+[[mods]]
+  filename = "chipped-neoforge-1.21.1-4.0.2.jar"
+  source = "modrinth"
+  project_id = "BAscRYKm"
+  version_id = "eqVowbGc"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/BAscRYKm/versions/eqVowbGc/chipped-neoforge-1.21.1-4.0.2.jar"
+
+[[mods]]
+  filename = "Chunky-NeoForge-1.4.23.jar"
+  source = "modrinth"
+  project_id = "fALzjamp"
+  version_id = "LuFhm4eU"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/fALzjamp/versions/LuFhm4eU/Chunky-NeoForge-1.4.23.jar"
+
+[[mods]]
+  filename = "clientsort-neoforge-3.89.0-beta.2+1.21.1.jar"
+  source = "modrinth"
+  project_id = "K0AkAin6"
+  version_id = "kcEfphTi"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/K0AkAin6/versions/kcEfphTi/clientsort-neoforge-3.89.0-beta.2%2B1.21.1.jar"
+
+[[mods]]
+  filename = "Clumps-neoforge-1.21.1-19.0.0.1.jar"
+  source = "modrinth"
+  project_id = "Wnxd13zP"
+  version_id = "jo7lDoK4"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/Wnxd13zP/versions/jo7lDoK4/Clumps-neoforge-1.21.1-19.0.0.1.jar"
+
+[[mods]]
+  filename = "connector-2.0.0-beta.17+1.21.1-full.jar"
+  source = "modrinth"
+  project_id = "u58R1TMW"
+  version_id = "IITF0PRC"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/u58R1TMW/versions/IITF0PRC/connector-2.0.0-beta.17%2B1.21.1-full.jar"
+
+[[mods]]
+  filename = "Controlling-neoforge-1.21.1-19.0.5.jar"
+  source = "modrinth"
+  project_id = "xv94TkTM"
+  version_id = "FaNppCJJ"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/xv94TkTM/versions/FaNppCJJ/Controlling-neoforge-1.21.1-19.0.5.jar"
+
+[[mods]]
+  filename = "copycats-3.0.7+mc.1.21.1-neoforge.jar"
+  source = "modrinth"
+  project_id = "UT2M39wf"
+  version_id = "8cABiKTp"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/UT2M39wf/versions/8cABiKTp/copycats-3.0.7%2Bmc.1.21.1-neoforge.jar"
+
+[[mods]]
+  filename = "crafting-package-router-1.2.0.jar"
+  source = "repo"
+  mod_id = 0
+  file_id = 0
+  path = "files/mods/crafting-package-router-1.2.0.jar"
+
+[[mods]]
+  filename = "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12.jar"
+  source = "modrinth"
+  project_id = "ix1qq8Ux"
+  version_id = "18SR4EJw"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/ix1qq8Ux/versions/18SR4EJw/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12.jar"
+
+[[mods]]
+  filename = "create-1.21.1-6.0.10.jar"
+  source = "modrinth"
+  project_id = "LNytGWDc"
+  version_id = "UjX6dr61"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar"
+
+[[mods]]
+  filename = "create-aeronautics-bundled-1.21.1-1.3.1.jar"
+  source = "modrinth"
+  project_id = "oWaK0Q19"
+  version_id = "Vzp221Un"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/oWaK0Q19/versions/Vzp221Un/create-aeronautics-bundled-1.21.1-1.3.1.jar"
+
+[[mods]]
+  filename = "create_aeronautics_transmission_linkage-0.2.8.jar"
+  source = "modrinth"
+  project_id = "Y1dq5ioE"
+  version_id = "FCZZ3ED4"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/Y1dq5ioE/versions/FCZZ3ED4/create_aeronautics_transmission_linkage-0.2.8.jar"
+
+[[mods]]
+  filename = "create_connected-1.3.2-mc1.21.1.jar"
+  source = "modrinth"
+  project_id = "Vg5TIO6d"
+  version_id = "klOWKza5"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/Vg5TIO6d/versions/klOWKza5/create_connected-1.3.2-mc1.21.1.jar"
+
+[[mods]]
+  filename = "create_jetpack-forge-5.2.1.jar"
+  source = "modrinth"
+  project_id = "UbFnAd4l"
+  version_id = "sCwiqLqq"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/UbFnAd4l/versions/sCwiqLqq/create_jetpack-forge-5.2.1.jar"
+
+[[mods]]
+  filename = "create_ultimate_factory-2.2.4-neoforge-1.21.1.jar"
+  source = "modrinth"
+  project_id = "N9QToVpw"
+  version_id = "AEMRNsNS"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/N9QToVpw/versions/AEMRNsNS/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar"
+
+[[mods]]
+  filename = "createbigcannons-5.11.7+mc.1.21.1.jar"
+  source = "modrinth"
+  project_id = "GWp4jCJj"
+  version_id = "bOiDu0LS"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/GWp4jCJj/versions/bOiDu0LS/createbigcannons-5.11.7%2Bmc.1.21.1.jar"
+
+[[mods]]
+  filename = "createcobblestone-1.4.12+neoforge-1.21.1-144.jar"
+  source = "modrinth"
+  project_id = "ihpnEd80"
+  version_id = "qucToeoF"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/ihpnEd80/versions/qucToeoF/createcobblestone-1.4.12%2Bneoforge-1.21.1-144.jar"
+
+[[mods]]
+  filename = "createdieselgenerators-1.21.1-1.3.15.jar"
+  source = "modrinth"
+  project_id = "ZM3tt6p1"
+  version_id = "UoPH8lO1"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/ZM3tt6p1/versions/UoPH8lO1/createdieselgenerators-1.21.1-1.3.15.jar"
+
+[[mods]]
+  filename = "createpropulsion-1.1.5.jar"
+  source = "modrinth"
+  project_id = "ApkoHNO9"
+  version_id = "H13U56dc"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/ApkoHNO9/versions/H13U56dc/createpropulsion-1.1.5.jar"
+
+[[mods]]
+  filename = "createutilities-0.3.7+mc1.21.1.jar"
+  source = "modrinth"
+  project_id = "8gamiD8q"
+  version_id = "RFKEUHLr"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/8gamiD8q/versions/RFKEUHLr/createutilities-0.3.7%2Bmc1.21.1.jar"
+
+[[mods]]
+  filename = "CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar"
+  source = "modrinth"
+  project_id = "OsZiaDHq"
+  version_id = "JX9o5pJD"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/JX9o5pJD/CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar"
+
+[[mods]]
+  filename = "curios-neoforge-9.5.1+1.21.1.jar"
+  source = "modrinth"
+  project_id = "vvuO3ImH"
+  version_id = "yohfFbgD"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar"
+
+[[mods]]
+  filename = "domum-ornamentum-1.0.236-snapshot-main.jar"
+  source = "curseforge"
+  mod_id = 527361
+  file_id = 8784713
+  url = "https://edge.forgecdn.net/files/8784/713/domum-ornamentum-1.0.236-snapshot-main.jar"
+
+[[mods]]
+  filename = "drippyloadingscreen_neoforge_3.1.5_MC_1.21.1.jar"
+  source = "modrinth"
+  project_id = "v3CYg2V9"
+  version_id = "MVgsDsSB"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/v3CYg2V9/versions/MVgsDsSB/drippyloadingscreen_neoforge_3.1.5_MC_1.21.1.jar"
+
+[[mods]]
+  filename = "drivebywire-0.3.0.jar"
+  source = "modrinth"
+  project_id = "KsqvI0hD"
+  version_id = "zdSwg9kS"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/KsqvI0hD/versions/zdSwg9kS/drivebywire-0.3.0.jar"
+
+[[mods]]
+  filename = "dungeons-and-taverns-v4.4.4.jar"
+  source = "modrinth"
+  project_id = "tpehi7ww"
+  version_id = "BYUUUeZA"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/tpehi7ww/versions/BYUUUeZA/dungeons-and-taverns-v4.4.4.jar"
+
+[[mods]]
+  filename = "effortless-1.21.1-3.4.0.jar"
+  source = "modrinth"
+  project_id = "EF68hjiy"
+  version_id = "ngJJMR0I"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/EF68hjiy/versions/ngJJMR0I/effortless-1.21.1-3.4.0.jar"
+
+[[mods]]
+  filename = "emf_compat_core-1.1.2.jar"
+  source = "modrinth"
+  project_id = "hbGct5uU"
+  version_id = "KykK4z7s"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/hbGct5uU/versions/KykK4z7s/emf_compat_core-1.1.2.jar"
+
+[[mods]]
+  filename = "emf_compat_not_enough_animations_1.21.1_1.2.0.jar"
+  source = "modrinth"
+  project_id = "IGCrWfL7"
+  version_id = "2PAaJs7w"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/IGCrWfL7/versions/2PAaJs7w/emf_compat_not_enough_animations_1.21.1_1.2.0.jar"
+
+[[mods]]
+  filename = "enchdesc-neoforge-1.21.1-21.1.11.jar"
+  source = "modrinth"
+  project_id = "UVtY3ZAC"
+  version_id = "IktklYWh"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/UVtY3ZAC/versions/IktklYWh/enchdesc-neoforge-1.21.1-21.1.11.jar"
+
+[[mods]]
+  filename = "entity_model_features-3.2.4-1.21-neoforge.jar"
+  source = "modrinth"
+  project_id = "4I1XuqiY"
+  version_id = "PAYgk63v"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/PAYgk63v/entity_model_features-3.2.4-1.21-neoforge.jar"
+
+[[mods]]
+  filename = "entity_texture_features_1.21-neoforge-7.1.jar"
+  source = "modrinth"
+  project_id = "BVzZfTc1"
+  version_id = "YEMROAHv"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/YEMROAHv/entity_texture_features_1.21-neoforge-7.1.jar"
+
+[[mods]]
+  filename = "entityculling-neoforge-1.10.5-mc1.21.1.jar"
+  source = "modrinth"
+  project_id = "NNAgCjsB"
+  version_id = "5zRIon6w"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/5zRIon6w/entityculling-neoforge-1.10.5-mc1.21.1.jar"
+
+[[mods]]
+  filename = "ExplorersCompass-1.21.1-3.4.0-neoforge.jar"
+  source = "modrinth"
+  project_id = "RV1qfVQ8"
+  version_id = "hIJ2Ev1Q"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/RV1qfVQ8/versions/hIJ2Ev1Q/ExplorersCompass-1.21.1-3.4.0-neoforge.jar"
+
+[[mods]]
+  filename = "explosiveenhancement-neoforge-1.21.1-1.1.2.jar"
+  source = "modrinth"
+  project_id = "r0camchr"
+  version_id = "XVYkZnNg"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/r0camchr/versions/XVYkZnNg/explosiveenhancement-neoforge-1.21.1-1.1.2.jar"
+
+[[mods]]
+  filename = "fancymenu_neoforge_3.9.10_MC_1.21.1.jar"
+  source = "modrinth"
+  project_id = "Wq5SjeWM"
+  version_id = "f8yonbbe"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/Wq5SjeWM/versions/f8yonbbe/fancymenu_neoforge_3.9.10_MC_1.21.1.jar"
+
+[[mods]]
+  filename = "FarmersDelight-1.21.1-1.3.3.jar"
+  source = "modrinth"
+  project_id = "R2OftAxM"
+  version_id = "wpkbWnVh"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/R2OftAxM/versions/wpkbWnVh/FarmersDelight-1.21.1-1.3.3.jar"
+
+[[mods]]
+  filename = "ferritecore-7.0.3-neoforge.jar"
+  source = "modrinth"
+  project_id = "uXXizFIs"
+  version_id = "x7kQWVju"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar"
+
+[[mods]]
+  filename = "forgified-fabric-api-0.116.15+2.3.4+1.21.1.jar"
+  source = "modrinth"
+  project_id = "Aqlf1Shp"
+  version_id = "K4hHKnnI"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/Aqlf1Shp/versions/K4hHKnnI/forgified-fabric-api-0.116.15%2B2.3.4%2B1.21.1.jar"
+
+[[mods]]
+  filename = "fzzy_config-0.7.6+1.21+neoforge.jar"
+  source = "modrinth"
+  project_id = "hYykXjDp"
+  version_id = "MAPG6cXE"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/hYykXjDp/versions/MAPG6cXE/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar"
+
+[[mods]]
+  filename = "geckolib-neoforge-1.21.1-4.9.2.jar"
+  source = "modrinth"
+  project_id = "8BmcQJ2H"
+  version_id = "tPkJmim6"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/tPkJmim6/geckolib-neoforge-1.21.1-4.9.2.jar"
+
+[[mods]]
+  filename = "handcrafted-neoforge-1.21.1-4.0.3.jar"
+  source = "modrinth"
+  project_id = "pJmCFF0p"
+  version_id = "JfqnpP2Z"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/pJmCFF0p/versions/JfqnpP2Z/handcrafted-neoforge-1.21.1-4.0.3.jar"
+
+[[mods]]
+  filename = "Highlighter-1.21-neoforge-1.1.11.jar"
+  source = "modrinth"
+  project_id = "cVNW5lr6"
+  version_id = "AsQ0Y2G9"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/cVNW5lr6/versions/AsQ0Y2G9/Highlighter-1.21-neoforge-1.1.11.jar"
+
+[[mods]]
+  filename = "iceandfire-2.1.1.jar"
+  source = "curseforge"
+  mod_id = 1040076
+  file_id = 8683031
+  url = "https://edge.forgecdn.net/files/8683/31/iceandfire-2.1.1.jar"
+
+[[mods]]
+  filename = "Iceberg-1.21.1-neoforge-1.3.2.jar"
+  source = "modrinth"
+  project_id = "5faXoLqX"
+  version_id = "IMssx9du"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/5faXoLqX/versions/IMssx9du/Iceberg-1.21.1-neoforge-1.3.2.jar"
+
+[[mods]]
+  filename = "ImmediatelyFast-NeoForge-1.6.12+1.21.1.jar"
+  source = "modrinth"
+  project_id = "5ZwdcRci"
+  version_id = "B2MHnfkW"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/B2MHnfkW/ImmediatelyFast-NeoForge-1.6.12%2B1.21.1.jar"
+
+[[mods]]
+  filename = "ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar"
+  source = "modrinth"
+  project_id = "9wv7LuMc"
+  version_id = "wtmSnIFo"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/9wv7LuMc/versions/wtmSnIFo/ImmersiveUI-NEOFORGE-0.3.3%2B1.21.1.jar"
+
+[[mods]]
+  filename = "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
+  source = "modrinth"
+  project_id = "YL57xq9U"
+  version_id = "KduFYu4t"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/YL57xq9U/versions/KduFYu4t/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar"
+
+[[mods]]
+  filename = "Jade-1.21.1-NeoForge-15.10.6.jar"
+  source = "modrinth"
+  project_id = "nvQzSEkH"
+  version_id = "eYz2YBGT"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/eYz2YBGT/Jade-1.21.1-NeoForge-15.10.6.jar"
+
+[[mods]]
+  filename = "JadeAddons-1.21.1-NeoForge-6.1.1.jar"
+  source = "modrinth"
+  project_id = "xuDOzCLy"
+  version_id = "ZHjXkd1n"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/xuDOzCLy/versions/ZHjXkd1n/JadeAddons-1.21.1-NeoForge-6.1.1.jar"
+
+[[mods]]
+  filename = "jei-1.21.1-neoforge-19.44.0.403.jar"
+  source = "modrinth"
+  project_id = "u6dRKJwZ"
+  version_id = "LtwmFHuF"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/LtwmFHuF/jei-1.21.1-neoforge-19.44.0.403.jar"
+
+[[mods]]
+  filename = "jupiter-2.3.7-1.21.1-neoforge.jar"
+  source = "modrinth"
+  project_id = "XbiLGMMU"
+  version_id = "Jpcw76rq"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/XbiLGMMU/versions/Jpcw76rq/jupiter-2.3.7-1.21.1-neoforge.jar"
+
+[[mods]]
+  filename = "konkrete_neoforge_1.9.9_MC_1.21.jar"
+  source = "modrinth"
+  project_id = "J81TRJWm"
+  version_id = "stJDU839"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/J81TRJWm/versions/stJDU839/konkrete_neoforge_1.9.9_MC_1.21.jar"
+
+[[mods]]
+  filename = "kotlinforforge-5.12.0-all.jar"
+  source = "modrinth"
+  project_id = "ordsPcFz"
+  version_id = "uhJhCT7X"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/ordsPcFz/versions/uhJhCT7X/kotlinforforge-5.12.0-all.jar"
+
+[[mods]]
+  filename = "kubejs-neoforge-2101.7.2-build.368.jar"
+  source = "modrinth"
+  project_id = "umyGl7zF"
+  version_id = "F2nzeC19"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/umyGl7zF/versions/F2nzeC19/kubejs-neoforge-2101.7.2-build.368.jar"
+
+[[mods]]
+  filename = "L_Ender's Cataclysm 1.21.1-3.33.jar"
+  source = "modrinth"
+  project_id = "46KJle7n"
+  version_id = "mYBUDZWl"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/46KJle7n/versions/mYBUDZWl/L_Ender%27s%20Cataclysm%201.21.1-3.33.jar"
+
+[[mods]]
+  filename = "LegendaryTooltips-1.21.1-neoforge-1.5.5.jar"
+  source = "modrinth"
+  project_id = "atHH8NyV"
+  version_id = "BabRJO04"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/atHH8NyV/versions/BabRJO04/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar"
+
+[[mods]]
+  filename = "lexiconfig-neoforge-1.4.21-novel.jar"
+  source = "modrinth"
+  project_id = "D157Rgyf"
+  version_id = "ij5zMAln"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/D157Rgyf/versions/ij5zMAln/lexiconfig-neoforge-1.4.21-novel.jar"
+
+[[mods]]
+  filename = "lionfishapi-3.1.jar"
+  source = "modrinth"
+  project_id = "FoVacERa"
+  version_id = "fTRMVgyZ"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/FoVacERa/versions/fTRMVgyZ/lionfishapi-3.1.jar"
+
+[[mods]]
+  filename = "lithium-neoforge-0.15.4+mc1.21.1.jar"
+  source = "modrinth"
+  project_id = "gvQqBUqZ"
+  version_id = "DDUrRVCA"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/DDUrRVCA/lithium-neoforge-0.15.4%2Bmc1.21.1.jar"
+
+[[mods]]
+  filename = "lithostitched-1.8.0+beta4-neoforge-21.1.jar"
+  source = "modrinth"
+  project_id = "XaDC71GB"
+  version_id = "81DDKTGJ"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/XaDC71GB/versions/81DDKTGJ/lithostitched-1.8.0%2Bbeta4-neoforge-21.1.jar"
+
+[[mods]]
+  filename = "lootr-neoforge-1.21.1-1.11.38.124.jar"
+  source = "modrinth"
+  project_id = "EltpO5cN"
+  version_id = "Trh49IZt"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/EltpO5cN/versions/Trh49IZt/lootr-neoforge-1.21.1-1.11.38.124.jar"
+
+[[mods]]
+  filename = "mcwifipnp-1.9.0-1.21-neoforge.jar"
+  source = "modrinth"
+  project_id = "RTWpcTBp"
+  version_id = "TQtrilwF"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/RTWpcTBp/versions/TQtrilwF/mcwifipnp-1.9.0-1.21-neoforge.jar"
+
+[[mods]]
+  filename = "Measurements-neoforge-1.21.1-3.0.3.jar"
+  source = "modrinth"
+  project_id = "wLINU2AB"
+  version_id = "Wan4NysJ"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/wLINU2AB/versions/Wan4NysJ/Measurements-neoforge-1.21.1-3.0.3.jar"
+
+[[mods]]
+  filename = "melody_neoforge_1.0.10_MC_1.21.jar"
+  source = "modrinth"
+  project_id = "CVT4pFB2"
+  version_id = "efcdRVZP"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/CVT4pFB2/versions/efcdRVZP/melody_neoforge_1.0.10_MC_1.21.jar"
+
+[[mods]]
+  filename = "minecolonies-1.1.1383-1.21.1-snapshot.jar"
+  source = "curseforge"
+  mod_id = 245506
+  file_id = 8854687
+  url = "https://edge.forgecdn.net/files/8854/687/minecolonies-1.1.1383-1.21.1-snapshot.jar"
+
+[[mods]]
+  filename = "modernfix-neoforge-5.27.20+mc1.21.1.jar"
+  source = "modrinth"
+  project_id = "nmDcB62a"
+  version_id = "VsJnrw8k"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/nmDcB62a/versions/VsJnrw8k/modernfix-neoforge-5.27.20%2Bmc1.21.1.jar"
+
+[[mods]]
+  filename = "moonlight-1.21.1-3.4.1-neoforge.jar"
+  source = "modrinth"
+  project_id = "twkfQtEc"
+  version_id = "3FbHoZqL"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/twkfQtEc/versions/3FbHoZqL/moonlight-1.21.1-3.4.1-neoforge.jar"
+
+[[mods]]
+  filename = "MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+  source = "modrinth"
+  project_id = "aC3cM3Vq"
+  version_id = "9I21YYxf"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9I21YYxf/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+
+[[mods]]
+  filename = "mru-1.0.19+LTS+1.21.1+neoforge.jar"
+  source = "modrinth"
+  project_id = "SNVQ2c0g"
+  version_id = "qYqVf5jP"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/SNVQ2c0g/versions/qYqVf5jP/mru-1.0.19%2BLTS%2B1.21.1%2Bneoforge.jar"
+
+[[mods]]
+  filename = "multipiston-1.2.58-1.21.1.jar"
+  source = "curseforge"
+  mod_id = 303278
+  file_id = 7097877
+  url = "https://edge.forgecdn.net/files/7097/877/multipiston-1.2.58-1.21.1.jar"
+
+[[mods]]
+  filename = "natevent-1.0.0.jar"
+  source = "repo"
+  mod_id = 0
+  file_id = 0
+  path = "files/mods/natevent-1.0.0.jar"
+
+[[mods]]
+  filename = "noisiumed-3.0.6-neoforge-1.21.1.jar"
+  source = "modrinth"
+  project_id = "M8MasaZG"
+  version_id = "U3gpLtpO"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/M8MasaZG/versions/U3gpLtpO/noisiumed-3.0.6-neoforge-1.21.1.jar"
+
+[[mods]]
+  filename = "notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
+  source = "modrinth"
+  project_id = "MPCX6s5C"
+  version_id = "eYNogep3"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/eYNogep3/notenoughanimations-neoforge-1.12.4-mc1.21.1.jar"
+
+[[mods]]
+  filename = "OctoLib-NEOFORGE-0.6.2+1.21.jar"
+  source = "modrinth"
+  project_id = "RH2KUdKJ"
+  version_id = "yVCCi6TK"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/RH2KUdKJ/versions/yVCCi6TK/OctoLib-NEOFORGE-0.6.2%2B1.21.jar"
+
+[[mods]]
+  filename = "ok_zoomer-neo-10.0.0-beta.13.jar"
+  source = "modrinth"
+  project_id = "aXf2OSFU"
+  version_id = "AkPuuAgJ"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/aXf2OSFU/versions/AkPuuAgJ/ok_zoomer-neo-10.0.0-beta.13.jar"
+
+[[mods]]
+  filename = "polymorph-neoforge-1.1.0+1.21.1.jar"
+  source = "modrinth"
+  project_id = "tagwiZkJ"
+  version_id = "VEburL70"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/tagwiZkJ/versions/VEburL70/polymorph-neoforge-1.1.0%2B1.21.1.jar"
+
+[[mods]]
+  filename = "ponderjs-neoforge-1.21.1-2.4.0.jar"
+  source = "modrinth"
+  project_id = "5A34Stj8"
+  version_id = "BqhDf7W8"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/5A34Stj8/versions/BqhDf7W8/ponderjs-neoforge-1.21.1-2.4.0.jar"
+
+[[mods]]
+  filename = "prickle-neoforge-1.21.1-21.1.11.jar"
+  source = "modrinth"
+  project_id = "aaRl8GiW"
+  version_id = "EE1FHDyD"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/aaRl8GiW/versions/EE1FHDyD/prickle-neoforge-1.21.1-21.1.11.jar"
+
+[[mods]]
+  filename = "Prism-1.21.1-neoforge-1.0.11.jar"
+  source = "modrinth"
+  project_id = "1OE8wbN0"
+  version_id = "kMcz2lDj"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/1OE8wbN0/versions/kMcz2lDj/Prism-1.21.1-neoforge-1.0.11.jar"
+
+[[mods]]
+  filename = "punchy-2.7d-neoforge-1.21.1.jar"
+  source = "modrinth"
+  project_id = "8aoMKplv"
+  version_id = "F6nWR1sw"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/8aoMKplv/versions/F6nWR1sw/punchy-2.7d-neoforge-1.21.1.jar"
+
+[[mods]]
+  filename = "Quick Skin - NeoForge - 1.21.1-2.6.2.4.jar"
+  source = "modrinth"
+  project_id = "zAIE84Ch"
+  version_id = "INuI60Al"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/zAIE84Ch/versions/INuI60Al/Quick%20Skin%20-%20NeoForge%20-%201.21.1-2.6.2.4.jar"
+
+[[mods]]
+  filename = "ragdoll_corpse-1.21.1-0.3.0.jar"
+  source = "modrinth"
+  project_id = "uetGbPKW"
+  version_id = "DwA6a1pT"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/uetGbPKW/versions/DwA6a1pT/ragdoll_corpse-1.21.1-0.3.0.jar"
+
+[[mods]]
+  filename = "ragdoll_reactions-1.21.1-0.7.0.jar"
+  source = "modrinth"
+  project_id = "6awFMFjR"
+  version_id = "yx32Af0N"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/6awFMFjR/versions/yx32Af0N/ragdoll_reactions-1.21.1-0.7.0.jar"
+
+[[mods]]
+  filename = "railways-0.3.0-beta.2+neoforge-mc1.21.1.jar"
+  source = "modrinth"
+  project_id = "L3Jv0QZI"
+  version_id = "czVeSmZo"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/L3Jv0QZI/versions/czVeSmZo/railways-0.3.0-beta.2%2Bneoforge-mc1.21.1.jar"
+
+[[mods]]
+  filename = "reimagined-intro-2.1.0-fabric.jar"
+  source = "modrinth"
+  project_id = "BsnF5g7E"
+  version_id = "P7j7avMC"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/BsnF5g7E/versions/P7j7avMC/reimagined-intro-2.1.0-fabric.jar"
+
+[[mods]]
+  filename = "resourcefullib-neoforge-1.21-3.0.12.jar"
+  source = "modrinth"
+  project_id = "G1hIVOrD"
+  version_id = "x99nCLTm"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/x99nCLTm/resourcefullib-neoforge-1.21-3.0.12.jar"
+
+[[mods]]
+  filename = "Resourcify (1.21.1-neoforge)-1.8.5.jar"
+  source = "modrinth"
+  project_id = "RLzHAoZe"
+  version_id = "aXRe8UMO"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/RLzHAoZe/versions/aXRe8UMO/Resourcify%20%281.21.1-neoforge%29-1.8.5.jar"
+
+[[mods]]
+  filename = "rhino-2101.2.7-build.85.jar"
+  source = "modrinth"
+  project_id = "sk9knFPE"
+  version_id = "cQ4POTah"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/sk9knFPE/versions/cQ4POTah/rhino-2101.2.7-build.85.jar"
+
+[[mods]]
+  filename = "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar"
+  source = "modrinth"
+  project_id = "B3pb093D"
+  version_id = "hZ6B2Z0x"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar"
+
+[[mods]]
+  filename = "sable-neoforge-1.21.1-2.0.5.jar"
+  source = "modrinth"
+  project_id = "T9PomCSv"
+  version_id = "U678xqle"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/T9PomCSv/versions/U678xqle/sable-neoforge-1.21.1-2.0.5.jar"
+
+[[mods]]
+  filename = "sable_player_ragdoll-1.21.1-0.7.5.jar"
+  source = "modrinth"
+  project_id = "I3mWDgfy"
+  version_id = "CyKh8XSr"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/I3mWDgfy/versions/CyKh8XSr/sable_player_ragdoll-1.21.1-0.7.5.jar"
+
+[[mods]]
+  filename = "sable_xaero_bridge-0.1.11.jar"
+  source = "curseforge"
+  mod_id = 1529727
+  file_id = 8079771
+  url = "https://edge.forgecdn.net/files/8079/771/sable_xaero_bridge-0.1.11.jar"
+
+[[mods]]
+  filename = "sablejade-1.3.0.jar"
+  source = "modrinth"
+  project_id = "jCrJ4iGH"
+  version_id = "cxUohR7A"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/jCrJ4iGH/versions/cxUohR7A/sablejade-1.3.0.jar"
+
+[[mods]]
+  filename = "sablephysicscompat-1.3.0.jar"
+  source = "modrinth"
+  project_id = "sZbcIrJb"
+  version_id = "Ucq7afTi"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/sZbcIrJb/versions/Ucq7afTi/sablephysicscompat-1.3.0.jar"
+
+[[mods]]
+  filename = "Searchables-neoforge-1.21.1-1.0.2.jar"
+  source = "modrinth"
+  project_id = "fuuu3xnx"
+  version_id = "iEE85X0w"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/fuuu3xnx/versions/iEE85X0w/Searchables-neoforge-1.21.1-1.0.2.jar"
+
+[[mods]]
+  filename = "shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar"
+  source = "modrinth"
+  project_id = "2M01OLQq"
+  version_id = "IuqNIoAi"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/2M01OLQq/versions/IuqNIoAi/shulkerboxtooltip-neoforge-5.1.9%2B1.21.1.jar"
+
+[[mods]]
+  filename = "SimpleBackups-1.21-4.0.30.jar"
+  source = "modrinth"
+  project_id = "fzSKSXVK"
+  version_id = "tHyCDNNH"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/fzSKSXVK/versions/tHyCDNNH/SimpleBackups-1.21-4.0.30.jar"
+
+[[mods]]
+  filename = "simpleradio-neoforge-1.21.1-4.5.7.9.jar"
+  source = "modrinth"
+  project_id = "S7b8mMXS"
+  version_id = "voNh2a0L"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/S7b8mMXS/versions/voNh2a0L/simpleradio-neoforge-1.21.1-4.5.7.9.jar"
+
+[[mods]]
+  filename = "sodium-neoforge-0.8.13-beta.2+mc1.21.1.jar"
+  source = "modrinth"
+  project_id = "AANobbMI"
+  version_id = "jfHZ5pyN"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/AANobbMI/versions/jfHZ5pyN/sodium-neoforge-0.8.13-beta.2%2Bmc1.21.1.jar"
+
+[[mods]]
+  filename = "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
+  source = "modrinth"
+  project_id = "qyVF9oeo"
+  version_id = "Dd2tmpsk"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/Dd2tmpsk/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
+
+[[mods]]
+  filename = "sounds-2.4.22+lts+1.21.1-neoforge.jar"
+  source = "modrinth"
+  project_id = "ZouiUX7t"
+  version_id = "kti7i9SG"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/kti7i9SG/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar"
+
+[[mods]]
+  filename = "spark-1.10.124-neoforge.jar"
+  source = "modrinth"
+  project_id = "l6YH9Als"
+  version_id = "v5qtqRQi"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-neoforge.jar"
+
+[[mods]]
+  filename = "structurize-1.0.833-1.21.1-snapshot.jar"
+  source = "curseforge"
+  mod_id = 298744
+  file_id = 8829722
+  url = "https://edge.forgecdn.net/files/8829/722/structurize-1.0.833-1.21.1-snapshot.jar"
+
+[[mods]]
+  filename = "supplementaries-1.21.1-3.9.1-neoforge.jar"
+  source = "modrinth"
+  project_id = "fFEIiSDQ"
+  version_id = "6vwrAvXf"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/6vwrAvXf/supplementaries-1.21.1-3.9.1-neoforge.jar"
+
+[[mods]]
+  filename = "tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar"
+  source = "modrinth"
+  project_id = "OypNE65K"
+  version_id = "wPvGWIj9"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/OypNE65K/versions/wPvGWIj9/tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar"
+
+[[mods]]
+  filename = "tacz_aero_compat-1.8.0.jar"
+  source = "modrinth"
+  project_id = "jgOzA8I4"
+  version_id = "maK19KHR"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/jgOzA8I4/versions/maK19KHR/tacz_aero_compat-1.8.0.jar"
+
+[[mods]]
+  filename = "tectonic-3.0.26-neoforge-21.1.jar"
+  source = "modrinth"
+  project_id = "lWDHr9jE"
+  version_id = "vNrkxC3z"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/vNrkxC3z/tectonic-3.0.26-neoforge-21.1.jar"
+
+[[mods]]
+  filename = "Terralith_1.21.1_v2.6.2_Neoforge.jar"
+  source = "modrinth"
+  project_id = "8oi3bsk5"
+  version_id = "IY93YaEe"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/8oi3bsk5/versions/IY93YaEe/Terralith_1.21.1_v2.6.2_Neoforge.jar"
+
+[[mods]]
+  filename = "towntalk-1.2.0.jar"
+  source = "curseforge"
+  mod_id = 900364
+  file_id = 5653504
+  url = "https://edge.forgecdn.net/files/5653/504/towntalk-1.2.0.jar"
+
+[[mods]]
+  filename = "trashslot-neoforge-1.21.1-21.1.11.jar"
+  source = "modrinth"
+  project_id = "vRYk0bv7"
+  version_id = "HY8Ybozd"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/vRYk0bv7/versions/HY8Ybozd/trashslot-neoforge-1.21.1-21.1.11.jar"
+
+[[mods]]
+  filename = "TravelersTitles-1.21.1-NeoForge-5.1.3.jar"
+  source = "modrinth"
+  project_id = "JtifUr64"
+  version_id = "2y01mBUy"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/JtifUr64/versions/2y01mBUy/TravelersTitles-1.21.1-NeoForge-5.1.3.jar"
+
+[[mods]]
+  filename = "uranus-3.0-beta.1.jar"
+  source = "curseforge"
+  mod_id = 1010827
+  file_id = 8682870
+  url = "https://edge.forgecdn.net/files/8682/870/uranus-3.0-beta.1.jar"
+
+[[mods]]
+  filename = "voicechat-neoforge-1.21.1-2.6.23.jar"
+  source = "modrinth"
+  project_id = "9eGKb6K1"
+  version_id = "Dv1fH2I2"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/Dv1fH2I2/voicechat-neoforge-1.21.1-2.6.23.jar"
+
+[[mods]]
+  filename = "wakes-1.21.1-NeoForge-1.4.1.jar"
+  source = "modrinth"
+  project_id = "E0SdeAoH"
+  version_id = "Z3Ic8n5N"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/E0SdeAoH/versions/Z3Ic8n5N/wakes-1.21.1-NeoForge-1.4.1.jar"
+
+[[mods]]
+  filename = "watermedia-3.0.0.23.jar"
+  source = "curseforge"
+  mod_id = 869524
+  file_id = 8519098
+  url = "https://edge.forgecdn.net/files/8519/98/watermedia-3.0.0.23.jar"
+
+[[mods]]
+  filename = "watermedia_binaries-3.0.0.6.jar"
+  source = "curseforge"
+  mod_id = 1029438
+  file_id = 8519058
+  url = "https://edge.forgecdn.net/files/8519/58/watermedia_binaries-3.0.0.6.jar"
+
+[[mods]]
+  filename = "xaerominimap-neoforge-1.21.1-26.4.2.jar"
+  source = "modrinth"
+  project_id = "1bokaNcj"
+  version_id = "JXvcT1hp"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/1bokaNcj/versions/JXvcT1hp/xaerominimap-neoforge-1.21.1-26.4.2.jar"
+
+[[mods]]
+  filename = "xaeroworldmap-neoforge-1.21.1-1.44.2.jar"
+  source = "modrinth"
+  project_id = "NcUtCpym"
+  version_id = "55gtOc9Y"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/NcUtCpym/versions/55gtOc9Y/xaeroworldmap-neoforge-1.21.1-1.44.2.jar"
+
+[[mods]]
+  filename = "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar"
+  source = "modrinth"
+  project_id = "1eAoo2KR"
+  version_id = "7TVdVtxF"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar"
+
+[[mods]]
+  filename = "YungsApi-1.21.1-NeoForge-5.1.8.jar"
+  source = "modrinth"
+  project_id = "Ua7DFN59"
+  version_id = "K3Dp2T0P"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/Ua7DFN59/versions/K3Dp2T0P/YungsApi-1.21.1-NeoForge-5.1.8.jar"
