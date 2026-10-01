@@ -71,6 +71,17 @@ schema = 1
   path = "files/mods/aerowarptics-1.3.1.jar"
 
 [[mods]]
+  id = "modrinth:U8RR1qbb"
+  version = "1.0.0-neoforge-1.21.1.250"
+  filename = "animalgarden-commonraccoon-1.0.0-neoforge-1.21.1.250.jar"
+  source = "modrinth"
+  project_id = "U8RR1qbb"
+  version_id = "jmIGIbQ3"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/U8RR1qbb/versions/jmIGIbQ3/animalgarden-commonraccoon-1.0.0-neoforge-1.21.1.250.jar"
+
+[[mods]]
   id = "modrinth:ulloLmqG"
   version = "4.0.2"
   filename = "another_furniture-neoforge-4.0.2.jar"
@@ -102,6 +113,17 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/k23mNPhZ/versions/iUPJ8ziU/aquamirae-neoforge-1.21.1-7.2.10.jar"
+
+[[mods]]
+  id = "modrinth:KkHnyaL6"
+  version = "1.2.0-neoforge-1.21.1-21.1.217"
+  filename = "aquariuslibs-1.2.0-neoforge-1.21.1-21.1.217.jar"
+  source = "modrinth"
+  project_id = "KkHnyaL6"
+  version_id = "sPrpmle3"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/KkHnyaL6/versions/sPrpmle3/aquariuslibs-1.2.0-neoforge-1.21.1-21.1.217.jar"
 
 [[mods]]
   id = "modrinth:lhGA9TYQ"
@@ -628,6 +650,17 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/N9QToVpw/versions/AEMRNsNS/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar"
+
+[[mods]]
+  id = "modrinth:kU1G12Nn"
+  version = "neoforge-1.21.1-1.7.1"
+  filename = "createaddition-1.7.1.jar"
+  source = "modrinth"
+  project_id = "kU1G12Nn"
+  version_id = "vD7sHwsm"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/kU1G12Nn/versions/vD7sHwsm/createaddition-1.7.1.jar"
 
 [[mods]]
   id = "modrinth:CZaz7aje"
@@ -1267,6 +1300,17 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/46KJle7n/versions/mYBUDZWl/L_Ender%27s%20Cataclysm%201.21.1-3.33.jar"
+
+[[mods]]
+  id = "modrinth:yBW8D80W"
+  version = "4.8.11+1.21.1"
+  filename = "lambdynamiclights-4.8.11+1.21.1.jar"
+  source = "modrinth"
+  project_id = "yBW8D80W"
+  version_id = "ksaGCvSu"
+  mod_id = 0
+  file_id = 0
+  url = "https://cdn.modrinth.com/data/yBW8D80W/versions/ksaGCvSu/lambdynamiclights-4.8.11%2B1.21.1.jar"
 
 [[mods]]
   id = "modrinth:atHH8NyV"
