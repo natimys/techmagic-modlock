@@ -1,10 +1,20 @@
-schema = 1
+schema = 3
 
 [pack]
   repository = "https://github.com/natimys/techmagic-modlock"
   branch = "main"
   lock_path = "mod.lock"
   mods_dir = "mods"
+  name = "OKOEM"
+  version = "1.0"
+
+  [[pack.components]]
+    id = "net.minecraft"
+    version = "1.21.1"
+
+  [[pack.components]]
+    id = "net.neoforged"
+    version = "21.1.252"
 
 [[mods]]
   id = "modrinth:tOVrxqLR"
@@ -16,6 +26,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/tOVrxqLR/versions/dPlHyUJt/%5BNeoforge-1.21.1%5DAccurateblockplacement%201.0.0.jar"
+  sha256 = "53e5a2525ae2cc149118b99f478f73497a184fe3ddc013a6f60293eaa957aec5"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:dzmhUvoY"
@@ -27,6 +39,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/dzmhUvoY/versions/oPxSZMWy/abyssal_decor_1.21.1_0.11.0_Neoforge.jar"
+  sha256 = "d5d35d0665ca8a5693c8b330dca07ffb1a44912c7ad547ae6304b73fead5c7be"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:jtmvUHXj"
@@ -38,6 +52,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/jtmvUHXj/versions/Fb55Fgjz/accessories-neoforge-1.1.0-beta.53%2B1.21.1.jar"
+  sha256 = "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:ySnjMzLg"
@@ -49,6 +65,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/ySnjMzLg/versions/JMgVNypu/accessories_compat_layer-neoforge-0.1.12%2B1.21.1.jar"
+  sha256 = "d9b673ebc4766a59663e4cc73d50e0ff3a371334e599c7890941e6e0bdd286ae"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:SOw6jD6x"
@@ -60,6 +78,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/SOw6jD6x/versions/fxjzpAbL/AdvancedPeripherals-1.21.1-0.8.2a.jar"
+  sha256 = "1bf3e11a1aea4cb4ab024d2fd43261d02565c304a705c6a379e7ebfa4c2d277e"
+  targets = ["client"]
 
 [[mods]]
   id = "minecraft:aerowarptics"
@@ -69,6 +89,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   path = "files/mods/aerowarptics-1.3.1.jar"
+  sha256 = "167d0ada95d088c120b46166815c2a5338b33a8c0287059f0716bb06b96cd411"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:U8RR1qbb"
@@ -80,6 +102,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/U8RR1qbb/versions/jmIGIbQ3/animalgarden-commonraccoon-1.0.0-neoforge-1.21.1.250.jar"
+  sha256 = "a8fd8d142ad12ea897d1a8520ee6e957bc40ae74386f13b21a0ec8f10bbca52e"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:ulloLmqG"
@@ -91,6 +115,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/ulloLmqG/versions/cugGiMKt/another_furniture-neoforge-4.0.3.jar"
+  sha256 = "a416cb33333d7a489c7a7314e918f564787838630b014c281b83adde014457d0"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:EsAfCjCV"
@@ -102,6 +128,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar"
+  sha256 = "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:k23mNPhZ"
@@ -113,6 +141,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/k23mNPhZ/versions/iUPJ8ziU/aquamirae-neoforge-1.21.1-7.2.10.jar"
+  sha256 = "d6269491f864074e5dabb31340aac0e00eef40b121f4342a06f39e17d84a8710"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:KkHnyaL6"
@@ -124,6 +154,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/KkHnyaL6/versions/sPrpmle3/aquariuslibs-1.2.0-neoforge-1.21.1-21.1.217.jar"
+  sha256 = "6ad4d547330d02dade5946c6b7172d00f7d6cc7357751dd41440046f85abef28"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:lhGA9TYQ"
@@ -135,6 +167,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1IiqEQGl/architectury-13.0.11-neoforge.jar"
+  sha256 = "9cc92f2c09533fc5482c60f993bd891c655a0e32b637037cdcb7c2b23adedeeb"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:TKB6INcv"
@@ -146,6 +180,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/TKB6INcv/versions/yWDnir1o/ars_nouveau-1.21.1-5.13.3.jar"
+  sha256 = "45c1b6022d8e63464177c1f822bda22c3d6fb66970857fd7677e4e3ccffd259f"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:P0Mu4wcQ"
@@ -157,6 +193,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/aE1GPGY4/artifacts-neoforge-13.2.3.jar"
+  sha256 = "5841434f9ac404de3d3fdd05880f699b41d4388c4047aba4eccc70e356892e48"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:b1ZV3DIJ"
@@ -168,6 +206,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/dJgL278E/athena-neoforge-1.21.1-4.0.6.jar"
+  sha256 = "43699885bbce3343916d4c5c4940cf0e3f9f6f02fdeb46e8655e121b42282ec5"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:RpH8tmT1"
@@ -179,6 +219,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/RpH8tmT1/versions/dxtZVosY/azimuth-1.4.10.jar"
+  sha256 = "e9f56d10a6ae56c8d02d2e9e1668c7b70d545d8e20cf4972f0710e9b01989d8a"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:OfKzpbRU"
@@ -190,6 +232,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/OfKzpbRU/versions/5RiJQA1Z/baguettelib-1.21.1-NeoForge-2.0.7.jar"
+  sha256 = "a1af3ae5c2945240bff3afa779621d9d8e21fb23bb6b1433f584e746735bae24"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:MBAkmtvl"
@@ -201,6 +245,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/CquiaiDj/balm-neoforge-1.21.1-21.0.66.jar"
+  sha256 = "6be660e1f6d169553bf44f66d4f78bb9e96a1d66ce108d9608819e3ce6bfba34"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:9BPuv4vL"
@@ -212,6 +258,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/9BPuv4vL/versions/xVfv1ket/beautify-neoforge-1.21.1-2.0.2.jar"
+  sha256 = "30fe272345eb016408d9144a7d33795a8bff0f33f68d9ab71805d0088b818f26"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:gJ5afkVv"
@@ -223,6 +271,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/gJ5afkVv/versions/w0mifib8/bellsandwhistles-0.4.7-1.21.1.jar"
+  sha256 = "a438cf2ea3a05120e12342484f1e12ca11526fbf4195d259ce1d7df8a9b3ffca"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:iHLDc0eo"
@@ -234,6 +284,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/iHLDc0eo/versions/uPFbnD32/better-advanced-tooltips-2101.1.0-build.5.jar"
+  sha256 = "0f76d46f2f18eb67e67c7974170d7b27deb66473396461c8dc50d6949de1449b"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:5sy6g3kz"
@@ -245,6 +297,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/5sy6g3kz/versions/VhIOvcXP/bettercombat-neoforge-2.4.0%2B1.21.1.jar"
+  sha256 = "0446e9faa98b764ba010ac31e337d14ac96bbb2fbfeff9b599e1efd510dfde5a"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:iGEl6Crx"
@@ -256,6 +310,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/iGEl6Crx/versions/EAjbdreT/biolith-neoforge-3.0.14.jar"
+  sha256 = "ded9169efb903198046cf44cf91a290ec836ed83a28e29179087eb860e0e6ce9"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:T8bvmqVZ"
@@ -267,6 +323,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/T8bvmqVZ/versions/g9Lmjjc5/bits_n_bobs-2.3.5.jar"
+  sha256 = "3e1647383c6ed1d629b6f20210179d5870bcbf8ba2a2a0ec58af69b53513db68"
+  targets = ["client"]
 
 [[mods]]
   id = "curseforge:522992"
@@ -276,6 +334,8 @@ schema = 1
   mod_id = 522992
   file_id = 8883780
   url = "https://edge.forgecdn.net/files/8883/780/blockui-1.0.212-1.21.1-snapshot.jar"
+  sha256 = "35f44cb349edb1d55d2a530e07705fe088b1695d1854355cbb12236b26f4311e"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:uy4Cnpcm"
@@ -287,6 +347,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/uy4Cnpcm/versions/1sdJl7J1/bookshelf-neoforge-1.21.1-21.1.81.jar"
+  sha256 = "19e88d40da2b6a114c2b808f7fb469d96e66a5379df0a8a43fcb7834498b3e76"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:1kcHy4de"
@@ -298,6 +360,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/1kcHy4de/versions/ttcWWp3r/born_in_chaos_%5BNeoforge%5D_1.21.1_1.7.6.jar"
+  sha256 = "a0271a24db8622434d9573c5e789d451a05c9211173885049284e1911e2499c7"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:joEfVgkn"
@@ -309,6 +373,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/joEfVgkn/versions/PV8oLZ1q/carryon-neoforge-1.21.1-2.2.6.13.jar"
+  sha256 = "d4f9576b6593db9486a89d35c1d84c31ee89141d99dbae2aa470350ab53c4e09"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:82njC4TT"
@@ -320,6 +386,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/82njC4TT/versions/bdzL1Nsp/cave_dweller-1.4-rc2.jar"
+  sha256 = "4436b232bd9fd4d6b08122360ce9be828d80fc6bf7fdef629d038c295ddd6ab4"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:zA9Klldw"
@@ -331,6 +399,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/zA9Klldw/versions/naLCoIB4/cc-cbc-v1.1.1-1.21.1-neoforge.jar"
+  sha256 = "0afc7fe10d31c87c0737ad1c3e443c87d3b57aab93a9628fdf51c3ee4053b535"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:gu7yAYhd"
@@ -342,6 +412,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/gu7yAYhd/versions/1ewzHZYg/cc-tweaked-1.21.1-forge-1.120.2.jar"
+  sha256 = "e8651fe24b384e925e563c9ad077644744474e2e7c0adb8e6d5b4757598dce9f"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:FFRmzdEr"
@@ -353,6 +425,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/FFRmzdEr/versions/qKkaeGSS/cc_deepseas-1.1.1.jar"
+  sha256 = "c4766ef57ff8a1fa3ee73bc057a089064938f3d2f9f5a5e11feb1fc6ab50d6d3"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:OPNBxiZD"
@@ -364,6 +438,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/OPNBxiZD/versions/j0UWQoMG/cc_sable-neoforge-1.3.4.jar"
+  sha256 = "7504abc1666a03e25ee2b8f99c352571b84edc5f85db24fa492d7b70d77adfeb"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:fXt291FO"
@@ -375,6 +451,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/fXt291FO/versions/MKK6cYI5/cccbridge-mc1.21.1-v1.7.3-neoforge.jar"
+  sha256 = "e78571c5c794e0fa6499331dd1b3ae9171f2f4af1b3b6a814343c5fadca04cbd"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:BAscRYKm"
@@ -386,6 +464,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/BAscRYKm/versions/eqVowbGc/chipped-neoforge-1.21.1-4.0.2.jar"
+  sha256 = "18ac6fd6b30db4922ccc6ee8bea5b113f69587505b7529834f37ace506427291"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:TYt9WXbA"
@@ -397,6 +477,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/TYt9WXbA/versions/hwKsTayi/ChTR-1.0.jar"
+  sha256 = "8bdb936849c86e659889dd301b6bfb7dabcee0ac8856a72a24e22055b5e11d6e"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:4BeAEBIb"
@@ -408,6 +490,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/4BeAEBIb/versions/WLQWzn2C/chunksmith-4.4.0%2B1.21.1-neoforge.jar"
+  sha256 = "c9ca5a13c1ecee1111065e339e20bb050d00fdd1da9e5a676d37390e542a4b9c"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:fALzjamp"
@@ -419,6 +503,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/fALzjamp/versions/LuFhm4eU/Chunky-NeoForge-1.4.23.jar"
+  sha256 = "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:K0AkAin6"
@@ -430,6 +516,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/K0AkAin6/versions/2c4hM8Ut/clientsort-neoforge-3.89.2%2B1.21.1.jar"
+  sha256 = "de14d1671e25b5446b7a9cd17f3693202ddb78351675d166e2723cbeef7c27e7"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:9s6osm5g"
@@ -441,6 +529,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar"
+  sha256 = "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:Wnxd13zP"
@@ -452,6 +542,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/Wnxd13zP/versions/jo7lDoK4/Clumps-neoforge-1.21.1-19.0.0.1.jar"
+  sha256 = "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:BzHgFoGz"
@@ -463,6 +555,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/BzHgFoGz/versions/8rq5KP4U/colorwheel-neoforge-1.3.0%2Bmc1.21.1.jar"
+  sha256 = "3c7c1f91b1add47053f40a58375de492b87ce83309be378527f100cb842c07c0"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:xv94TkTM"
@@ -474,6 +568,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/xv94TkTM/versions/FaNppCJJ/Controlling-neoforge-1.21.1-19.0.5.jar"
+  sha256 = "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:UT2M39wf"
@@ -485,6 +581,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/UT2M39wf/versions/bPYeUWZx/copycats-3.0.9%2Bmc.1.21.1-neoforge.jar"
+  sha256 = "d1efdd8688af6603dff9425299ac4547ef56a7d5cfee757716ead7853276694e"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:ix1qq8Ux"
@@ -496,6 +594,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/ix1qq8Ux/versions/18SR4EJw/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.12.jar"
+  sha256 = "42f582333ffe61366e68a9320d3c205153f2fdc5b53ad715b01543f85828e6b0"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:LNytGWDc"
@@ -507,6 +607,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar"
+  sha256 = "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:oWaK0Q19"
@@ -518,6 +620,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/oWaK0Q19/versions/44pLdPGg/create-aeronautics-bundled-1.21.1-1.3.2.jar"
+  sha256 = "a3f330d4757640f8715d991a43eedb826e4d0e51558d859c843ae6693bd35f1e"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:5fUBLqeW"
@@ -529,6 +633,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/5fUBLqeW/versions/pcD0Yutw/create_aeronautics_toolgun-0.3.6.jar"
+  sha256 = "57db4e5b8e52c208a73764a5d0c8bc70fc61a62b96349e12b092dcd0b344874a"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:Y1dq5ioE"
@@ -540,6 +646,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/Y1dq5ioE/versions/FCZZ3ED4/create_aeronautics_transmission_linkage-0.2.8.jar"
+  sha256 = "149a68e131440c62a2aae39357dc23cf190d7ec4fb52c0c0b105834988d63596"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:Vg5TIO6d"
@@ -551,6 +659,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/Vg5TIO6d/versions/Xe7EqzfQ/create_connected-1.3.3-mc1.21.1.jar"
+  sha256 = "0c5eb9ffb5c8d71e6e2a39023feb85c51adfb10d38949bc47c4abbd53b351a4f"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:QMGO17gm"
@@ -562,6 +672,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/QMGO17gm/versions/6lav8Nc5/create_factory_logistics-1.21.1-1.6.1-all.jar"
+  sha256 = "afde59685f33bbd9e75335bb4bd404fba501ef248fdea5740fd6f024e64b571f"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:UbFnAd4l"
@@ -573,6 +685,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/UbFnAd4l/versions/sCwiqLqq/create_jetpack-forge-5.2.1.jar"
+  sha256 = "cf99c1c4943230c6b1d88527da72c3a9db908d76bcaf4e3fefe345ac8a3c9081"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:1vXRfEHZ"
@@ -584,6 +698,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/1vXRfEHZ/versions/xSPt2JXH/create_mobile_packages-1.21.1-0.7.8.jar"
+  sha256 = "74a03a7d8112fd9a93d163ce73f34f43b4a0e44f2df6c595cc7ba1a24b40d095"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:wPQ6GgFE"
@@ -595,6 +711,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/wPQ6GgFE/versions/3Y4r0ItR/create_power_loader-2.0.5-mc1.21.1.jar"
+  sha256 = "69fb0433dcba1597e7fbc06b2731ebd441f8ed99e20d8ec798d852d6865d1bd7"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:DtA4C6Hk"
@@ -606,6 +724,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/DtA4C6Hk/versions/OSTDA4hH/create_stressbound-1.2.11.jar"
+  sha256 = "b975f746a77fe1f620f650c3186853daf21c596c6fac1cfd91014d78991749ca"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:mva5q4qZ"
@@ -617,6 +737,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/mva5q4qZ/versions/8CV1LRTl/create_submarine-3.3.0.jar"
+  sha256 = "99709e004c8a7a36cb3439c0200ffd0c8ff5d7ca4fb77d49f76395d803864ba1"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:N9QToVpw"
@@ -628,6 +750,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/N9QToVpw/versions/AEMRNsNS/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar"
+  sha256 = "b95dcdd43c859eaf1825f33b2b4c42226187a1e875d368b0b24ed0be1e0fa1b0"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:kU1G12Nn"
@@ -639,6 +763,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/kU1G12Nn/versions/hsjVajlP/createaddition-1.7.2.jar"
+  sha256 = "71e9c3ac39089e72c1e47a129a44e41eb55efc9534eecfdead8da8fb64313414"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:CZaz7aje"
@@ -650,6 +776,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/CZaz7aje/versions/soesZiME/createadditionallogistics-1.21.1-1.4.5.jar"
+  sha256 = "f7bf95504c3bf293464b883c989354dd643d559de5bfcad4a23fed4144592d6a"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:GWp4jCJj"
@@ -661,6 +789,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/GWp4jCJj/versions/bOiDu0LS/createbigcannons-5.11.7%2Bmc.1.21.1.jar"
+  sha256 = "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:ihpnEd80"
@@ -672,6 +802,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/ihpnEd80/versions/srFLj2Ch/createcobblestone-1.5.0%2Bneoforge-1.21.1-153.jar"
+  sha256 = "a2c8bffb1ebd3fcc0f381a6be498bc16c6990bd31bff1f5c0852ffe5ed35eaf4"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:sMvUb4Rb"
@@ -683,6 +815,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/sMvUb4Rb/versions/qrcMVoBD/createdeco-2.1.3.jar"
+  sha256 = "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:ZM3tt6p1"
@@ -694,6 +828,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/ZM3tt6p1/versions/UoPH8lO1/createdieselgenerators-1.21.1-1.3.15.jar"
+  sha256 = "56ef1d574278fc311f1ffa223dbd613077b899354a18d01ae8dca2578a4e2990"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:dzb1a5WV"
@@ -705,6 +841,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/dzb1a5WV/versions/b0u9vk8C/CreateDragonsPlus-1.11.9.jar"
+  sha256 = "37f05a6775bbe811fe8c2833fa6289a1c704d0b25bdd5f239d343a5c6f62ed8a"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:W2K5jx3j"
@@ -716,6 +854,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/W2K5jx3j/versions/nCfG3qog/createfurnitureseats-5.0.jar"
+  sha256 = "cae0cbda3d5e190fab5b06136e2b59620757d2c0d670aa091873ad203fe54524"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:ApkoHNO9"
@@ -727,6 +867,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/ApkoHNO9/versions/H13U56dc/createpropulsion-1.1.5.jar"
+  sha256 = "5525a3a0c8b1c476cbc467d021e9d1492b58c78de31ed269eb04f169d42db0a1"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:8gamiD8q"
@@ -738,6 +880,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/8gamiD8q/versions/RFKEUHLr/createutilities-0.3.7%2Bmc1.21.1.jar"
+  sha256 = "a33462fbe230a65747f949d45f42408c8a7735b08cb53a0a718a80f29bc74dc6"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:OsZiaDHq"
@@ -749,6 +893,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/vRMtFt35/CreativeCore_NEOFORGE_v2.13.51_mc1.21.1.jar"
+  sha256 = "911b612783b00d9ebef63a700d1fb96d700915991f71063a047796465ce7be84"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:vvuO3ImH"
@@ -760,6 +906,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar"
+  sha256 = "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:x49wilh8"
@@ -771,6 +919,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/x49wilh8/versions/uQsIRky8/Design-n-Decor-1.21.1-2.2b.jar"
+  sha256 = "af0264e8ba44b77744d9a6173b79fcc39758c5b975fbb377d4000e85bfcd2c8f"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:Iq9c4mLa"
@@ -782,6 +932,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/Iq9c4mLa/versions/l9l5j4Zh/dimensional_sable-1.0.5.jar"
+  sha256 = "7bc4856b39589669bd7e44bafedbaa4d73e4085ec5c69c581a8f64c39d97d35b"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:eVRnZV4A"
@@ -793,6 +945,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/eVRnZV4A/versions/9PWn5Q1p/disablecommand-1.0.jar"
+  sha256 = "33129ffeb62b4bca980428e6e5dbb56bf0396ea2548fe937a34b24bd8b977ac8"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:yXepZhp8"
@@ -804,6 +958,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/yXepZhp8/versions/xiS3GrrW/displaydelight-1.7.0.jar"
+  sha256 = "4a77575139aa2fd1e1887243461e4f5cf1a532ac0a3a4d3a80c469d07a6df55c"
+  targets = ["client"]
 
 [[mods]]
   id = "curseforge:839197"
@@ -813,6 +969,8 @@ schema = 1
   mod_id = 839197
   file_id = 7167547
   url = "https://edge.forgecdn.net/files/7167/547/DistantFriends-neoforge-1.21.1-0.9.5.jar"
+  sha256 = "c9b4a9263d720f8ce2e4a6e4127d48c7d5a92f63db2177262473b7f18d0b8fdd"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:6FtRfnLg"
@@ -824,6 +982,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/6FtRfnLg/versions/Zj604q5O/do_a_barrel_roll-neoforge-3.7.3%2B1.21.jar"
+  sha256 = "e56395ebb26318c11f3a9474bba14518f17f4f2028683eb0aa9cdc7dacf124e2"
+  targets = ["client"]
 
 [[mods]]
   id = "curseforge:527361"
@@ -833,6 +993,8 @@ schema = 1
   mod_id = 527361
   file_id = 8784713
   url = "https://edge.forgecdn.net/files/8784/713/domum-ornamentum-1.0.236-snapshot-main.jar"
+  sha256 = "fcf875b183f9096b868b527837dfb677e397a11510cec79bdb01c7268b918f27"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:rrNGnYXg"
@@ -844,6 +1006,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/rrNGnYXg/versions/9U5xWb1T/drivebysable-r2.0.2.jar"
+  sha256 = "3f705c9ed49b200411664c0beb09d9860f5cd5e7178b12a51a5c4d54e723f48e"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:tpehi7ww"
@@ -855,6 +1019,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/tpehi7ww/versions/BYUUUeZA/dungeons-and-taverns-v4.4.4.jar"
+  sha256 = "1db28e89e0cb76aebe9e40955d1866e8ac1779575d15c2a1e250ac804a762d05"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:EF68hjiy"
@@ -866,6 +1032,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/EF68hjiy/versions/ngJJMR0I/effortless-1.21.1-3.4.0.jar"
+  sha256 = "43dcee63746a1a0126c333c3d36cce23884e13138ad17aeaa7abec19d1df1ad0"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:hbGct5uU"
@@ -877,6 +1045,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/hbGct5uU/versions/esEPP7KY/emf_compat_core_neoforge_1.21.1_2.3.0.jar"
+  sha256 = "9f4852d449530c32a93f9a1e78ed4e101f1fd9cabdffbef02bd6dbc8c28d330a"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:IGCrWfL7"
@@ -888,6 +1058,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/IGCrWfL7/versions/X9UBK5Uu/emf_compat_not_enough_animations_neoforge_1.21.1_1.2.1.jar"
+  sha256 = "67ed00528d0230b134bac4b972a7d1ec4081b34c2f8d62145d99d6ea69edf684"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:pZ2wrerK"
@@ -899,6 +1071,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/pZ2wrerK/versions/fu6N0NgM/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar"
+  sha256 = "8cff63e900acd55bb39d41978cc2a70a974e326e2038c30ff20ccfde4c953a43"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:UVtY3ZAC"
@@ -910,6 +1084,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/UVtY3ZAC/versions/IktklYWh/enchdesc-neoforge-1.21.1-21.1.11.jar"
+  sha256 = "868d3eab3305d96dd3ecf510d18a7aa7444e2aea168695cf4aff23a96bec975f"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:4I1XuqiY"
@@ -921,6 +1097,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/bRlX1x4e/entity_model_features-3.3.11-1.21-neoforge.jar"
+  sha256 = "8337d6b71c8e026efef852a5905f46631cbeb2620ae16fd200264a9230932296"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:BVzZfTc1"
@@ -932,6 +1110,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/CfQJbv1u/entity_texture_features-7.2.5-1.21-neoforge.jar"
+  sha256 = "2276e6c23e4ebb0c26aac68e5c7b547bc31bdaff0ee60beb9b5060de878fe91c"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:NNAgCjsB"
@@ -943,6 +1123,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/eieYbWYb/entityculling-neoforge-1.11.3-mc1.21.1.jar"
+  sha256 = "fa73ac70a3766568203b730a1573b4b54d88fb48dff4a33d8c4a80be9b8d17d5"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:RV1qfVQ8"
@@ -954,6 +1136,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/RV1qfVQ8/versions/hIJ2Ev1Q/ExplorersCompass-1.21.1-3.4.0-neoforge.jar"
+  sha256 = "71e7b47bd88c9c210d7c06fe5276736fc2e225e869778216537d584e6d1faf24"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:r0camchr"
@@ -965,6 +1149,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/r0camchr/versions/GYn7YRXz/explosiveenhancement-neoforge-1.21.1-1.2.0.jar"
+  sha256 = "ec01cb0effac5bd0e11f7c819b7202db80e9e80dc27abbb5c0f9192f2ffa0ea8"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:R2OftAxM"
@@ -976,6 +1162,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/R2OftAxM/versions/XTVZDOol/FarmersDelight-1.21.1-1.3.4.jar"
+  sha256 = "139ad7696462c89c03eea463f805abffa552526c5dadaadae221dd9624cb197c"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:uXXizFIs"
@@ -987,6 +1175,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar"
+  sha256 = "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:Aqlf1Shp"
@@ -998,6 +1188,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/Aqlf1Shp/versions/V9WdDUTx/forgified-fabric-api-0.116.15%2B2.3.5%2B1.21.1.jar"
+  sha256 = "96f8b489f401c64e87343daf57a030ccd1b58be40fc0aad701278ba58a0fadaf"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:49C5QgTK"
@@ -1009,6 +1201,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/49C5QgTK/versions/Kh6I6ckR/fragmentum-5.2.0%2B1.21.1-neoforge.jar"
+  sha256 = "9efb8f62efed0d2da4fdea64d2c5e9d4a84a2ecce21e8178b6d36326d9a9d908"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:hYykXjDp"
@@ -1020,6 +1214,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/hYykXjDp/versions/uG7oHgw6/fzzy_config-0.7.7%2B1.21%2Bneoforge.jar"
+  sha256 = "26af871cacd134ce52610384bbdd362a018707444eb2d498e4833063f378cf85"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:8BmcQJ2H"
@@ -1031,6 +1227,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/Grwn5rUB/geckolib-neoforge-1.21.1-4.9.3.jar"
+  sha256 = "20a1995e4074f387ff549e2c57ea79dd7d41ee83c6afb9dd6a6e840e592d1c47"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:RYtXKJPr"
@@ -1042,6 +1240,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/RYtXKJPr/versions/rMGJpjaM/gravestone-neoforge-1.21.1-1.0.40.jar"
+  sha256 = "204be9ccb8632a56a87aee9aab4c7874d0f6749f566c07f5dd420d24e24dc8b0"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:xJqwA0XO"
@@ -1053,6 +1253,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/xJqwA0XO/versions/bdUGV5X8/gravestone_sable_compat-1.0.0.jar"
+  sha256 = "5edab880eb160fb6fef87c5bf229cad4a89d3fbf7c58a7ee7656e56600832089"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:NaiL8bPN"
@@ -1064,6 +1266,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/NaiL8bPN/versions/ugBtElN2/gravestonecurioscompat-1.21.1-NeoForge-4.0.2.jar"
+  sha256 = "d8869fb374a754dcbf61d99d3df20d25000f9079aa16f0dec3f78f30cf823285"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:pJmCFF0p"
@@ -1075,6 +1279,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/pJmCFF0p/versions/JfqnpP2Z/handcrafted-neoforge-1.21.1-4.0.3.jar"
+  sha256 = "6f2a776fb28ed07d370899814e5e711fbeebe31396097d78a3b550439b364948"
+  targets = ["client"]
 
 [[mods]]
   id = "curseforge:1280023"
@@ -1084,6 +1290,8 @@ schema = 1
   mod_id = 1280023
   file_id = 8795099
   url = "https://edge.forgecdn.net/files/8795/99/hardcore_true_darkness-6.1.jar"
+  sha256 = "fcf9641c9e25b83753908da1e0022f1b5572a7c7154d0cde7855380d211dda88"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:cVNW5lr6"
@@ -1095,6 +1303,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/cVNW5lr6/versions/AsQ0Y2G9/Highlighter-1.21-neoforge-1.1.11.jar"
+  sha256 = "cc9480a383a8f9bcf2c6c3bfc913aa7e3b1b9ad1062c5180c4d0d281000c9f8b"
+  targets = ["client"]
 
 [[mods]]
   id = "curseforge:1040076"
@@ -1104,6 +1314,8 @@ schema = 1
   mod_id = 1040076
   file_id = 8929517
   url = "https://edge.forgecdn.net/files/8929/517/iceandfire-2.1.3.jar"
+  sha256 = "5c67db7c93a02cc45285e23cc25b4b40b63025f445b528057747641f187f94f5"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:5faXoLqX"
@@ -1115,6 +1327,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/5faXoLqX/versions/IMssx9du/Iceberg-1.21.1-neoforge-1.3.2.jar"
+  sha256 = "0d620c975619b04110b94a73d5b42d252563ff59c1eae9d21ab2ee7e38460a3c"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:5ZwdcRci"
@@ -1126,6 +1340,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/OUpXxw4n/ImmediatelyFast-NeoForge-1.6.14%2B1.21.1.jar"
+  sha256 = "15bf9bd6d8e3ae8ad35c5a4d90680424b534d9762d698c0a466965afcab5dd78"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:9wv7LuMc"
@@ -1137,6 +1353,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/9wv7LuMc/versions/wtmSnIFo/ImmersiveUI-NEOFORGE-0.3.3%2B1.21.1.jar"
+  sha256 = "6b914e305f27962a91d49a659b77eb65f47acee9d79930801b4fc1d3e474c8a4"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:KpICtuVx"
@@ -1148,6 +1366,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/KpICtuVx/versions/L0dof2WQ/incontrol-1.21-10.3.0.jar"
+  sha256 = "3776c11310008edaffdda0320c1a8436555ff59de36a6e3959452cbdefa98111"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:r4Knci2k"
@@ -1159,6 +1379,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/r4Knci2k/versions/gBrfZy6S/interiors-1.21.1-neoforge-0.6.1.jar"
+  sha256 = "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:YL57xq9U"
@@ -1170,6 +1392,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/KduFYu4t/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar"
+  sha256 = "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:nvQzSEkH"
@@ -1181,6 +1405,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/nvQzSEkH/versions/eYz2YBGT/Jade-1.21.1-NeoForge-15.10.6.jar"
+  sha256 = "276f1f65a20d04f536989c4f311949d770b52c440c23c2b904a08860f3c93810"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:xuDOzCLy"
@@ -1192,6 +1418,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/xuDOzCLy/versions/O3F6Dkle/JadeAddons-1.21.1-NeoForge-6.1.2.jar"
+  sha256 = "1e7ce561f66c90446797e57f836c4459bb0dbc408b6bd551e5e18038774641ae"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:u6dRKJwZ"
@@ -1203,6 +1431,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/RI8WCow6/jei-1.21.1-neoforge-19.57.0.451.jar"
+  sha256 = "44fcda225b26d14502bb1890512f4356db0a2577a6c63757b92948a6b951180a"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:XbiLGMMU"
@@ -1214,6 +1444,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/XbiLGMMU/versions/Jpcw76rq/jupiter-2.3.7-1.21.1-neoforge.jar"
+  sha256 = "95af332af250f97fe2d9d288fe6b2057c266673a388348bf33756b0b693ace15"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:J81TRJWm"
@@ -1225,6 +1457,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/J81TRJWm/versions/stJDU839/konkrete_neoforge_1.9.9_MC_1.21.jar"
+  sha256 = "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:ordsPcFz"
@@ -1236,6 +1470,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/ordsPcFz/versions/uhJhCT7X/kotlinforforge-5.12.0-all.jar"
+  sha256 = "2785a4dd6de5c6c56065fd8eb789c82771bd2ee773c30794c23160a3b2c39139"
+  targets = ["client"]
 
 [[mods]]
   id = "curseforge:238086"
@@ -1245,6 +1481,8 @@ schema = 1
   mod_id = 238086
   file_id = 8843626
   url = "https://edge.forgecdn.net/files/8843/626/kubejs-neoforge-2101.7.2-build.377.jar"
+  sha256 = "43b656bc2d4ce867141abb828c9481f080a38585b99bcfa07e54732a4976a601"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:46KJle7n"
@@ -1256,6 +1494,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/46KJle7n/versions/PsPYpoCC/L_Ender%27s%20Cataclysm%201.21.1-3.33.jar"
+  sha256 = "371956d0c2e3b56729ee93b955e936875d210e372fe734cdb74326d89ef79875"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:yBW8D80W"
@@ -1267,6 +1507,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/yBW8D80W/versions/ksaGCvSu/lambdynamiclights-4.8.11%2B1.21.1.jar"
+  sha256 = "913b0358b1031828f1e060ea0ee361232dc2a1c82464f488a0a920739ce7c763"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:atHH8NyV"
@@ -1278,6 +1520,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/atHH8NyV/versions/BabRJO04/LegendaryTooltips-1.21.1-neoforge-1.5.5.jar"
+  sha256 = "8ba2bc2cb894e48d8e7520d41c72ef7f429659c3ee58b029f4899c760b958493"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:oNB5jhlA"
@@ -1289,6 +1533,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/oNB5jhlA/versions/9QEPWtYp/letsdo-bakery-neoforge-2.1.8.jar"
+  sha256 = "29e9338377300a3611e9f48961b3e7adedc7e7ff0ced030cf85964754939031a"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:GyKzAh3l"
@@ -1300,6 +1546,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/GyKzAh3l/versions/HN4rzKRl/letsdo-beachparty-neoforge-2.1.5.jar"
+  sha256 = "e8deaf37b0092f5be93fa57d8a4ce1d35c119c2267ea4a8c508198652541fb33"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:b7NV2plI"
@@ -1311,6 +1559,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/b7NV2plI/versions/y9ZpG5jE/letsdo-brewery-neoforge-2.1.12.jar"
+  sha256 = "2ab7c5ff23e5ee4c26ade3e932c52e2a0bc64bc6c7b6907d5c7cb02dc960dbdb"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:qwbArkQk"
@@ -1322,6 +1572,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/qwbArkQk/versions/aa3WioYe/letsdo-candlelight-neoforge-2.1.14.jar"
+  sha256 = "84852dc10cd5c54908a0b4e63d3995c7026db71be158d066378b0d70084608f4"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:HJetCzWo"
@@ -1333,6 +1585,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/HJetCzWo/versions/lAc3mEva/letsdo-farm_and_charm-neoforge-1.1.27.jar"
+  sha256 = "b2e4a0d034aa9c88f6690a41af49d8ff08632bc291a5d12a6f8ed8dfae59c23f"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:3JQDJrYW"
@@ -1344,6 +1598,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/3JQDJrYW/versions/mRIxTsZs/letsdo-furniture-neoforge-1.1.6.jar"
+  sha256 = "837c4eb400cce01ecea73e8c64024103249302d4a4f557f184f5dda9a75c8547"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:Eh11TaTm"
@@ -1355,6 +1611,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/Eh11TaTm/versions/kGYbyn9P/letsdo-herbalbrews-neoforge-1.1.4.jar"
+  sha256 = "c84a3479d520e7a3da3f87272176ac9f3b2308ccc81cac3c51a4aac81c91406a"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:ra7o6Sl7"
@@ -1366,6 +1624,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/ra7o6Sl7/versions/SdTfMLxH/letsdo-meadow-neoforge-1.4.9.jar"
+  sha256 = "ff300d3f3b19c7a7abc16ac08bbba3fb870e89c0cfb9422b3dc2e13e0bae337d"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:1DWmBJVA"
@@ -1377,6 +1637,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/1DWmBJVA/versions/DLINXOWN/letsdo-vinery-neoforge-1.5.5.jar"
+  sha256 = "f9c8f819d7af1eaca2aa5875cf5eecef6e693ee5dd61eb57ab531c1b3d9e17c1"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:D157Rgyf"
@@ -1388,6 +1650,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/D157Rgyf/versions/ij5zMAln/lexiconfig-neoforge-1.4.21-novel.jar"
+  sha256 = "0718d9695b5b73b7d3bc0dcf9c791499a5d5747e32f43ec3d272de4a971483ba"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:FoVacERa"
@@ -1399,6 +1663,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/FoVacERa/versions/fTRMVgyZ/lionfishapi-3.1.jar"
+  sha256 = "aeebf0692650afbbc78259c0d4e3d5b7edf037707e8ae5d56045066d83a19cf6"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:gvQqBUqZ"
@@ -1410,6 +1676,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/DDUrRVCA/lithium-neoforge-0.15.4%2Bmc1.21.1.jar"
+  sha256 = "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:XaDC71GB"
@@ -1421,6 +1689,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/XaDC71GB/versions/sPmtDq1X/lithostitched-1.8.0-neoforge-21.1.jar"
+  sha256 = "204699b4e3aa3176e2da5b145c6c66887363821f2bd671ba77bd94750036e169"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:fJFETWDN"
@@ -1432,6 +1702,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/fJFETWDN/versions/5AZDyUSn/lootjs-neoforge-1.21.1-3.7.0.jar"
+  sha256 = "d168fd80f45e5f23dced8a54fdee87347a4c7fc6ccd9c76d30ae4d067ba9c60a"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:EltpO5cN"
@@ -1443,6 +1715,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/EltpO5cN/versions/SPOrIzX8/lootr-neoforge-1.21.1-1.11.38.127.jar"
+  sha256 = "5c74de4709d1c13b25880fdd241a89d5d9f331346d20edc76f80ccd4d99dc66c"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:RTWpcTBp"
@@ -1454,6 +1728,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/RTWpcTBp/versions/TQtrilwF/mcwifipnp-1.9.0-1.21-neoforge.jar"
+  sha256 = "e726f0ca3c76db428fcbfa46c6830451886a9cff6539318a38d723ec9460bcc3"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:wLINU2AB"
@@ -1465,6 +1741,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/wLINU2AB/versions/Wan4NysJ/Measurements-neoforge-1.21.1-3.0.3.jar"
+  sha256 = "c97e9b29ec56b6ca58d8024d08546aa473dc1ac1fea579bd622fadb8c0ebb0dc"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:CVT4pFB2"
@@ -1476,6 +1754,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/CVT4pFB2/versions/efcdRVZP/melody_neoforge_1.0.10_MC_1.21.jar"
+  sha256 = "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871"
+  targets = ["client"]
 
 [[mods]]
   id = "curseforge:245506"
@@ -1485,6 +1765,8 @@ schema = 1
   mod_id = 245506
   file_id = 9058295
   url = "https://edge.forgecdn.net/files/9058/295/minecolonies-1.1.1403-1.21.1.jar"
+  sha256 = "c8d4373ffc8a76638c8edf2bb6716f9209599032209c48d0d559b787f69a0561"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:nmDcB62a"
@@ -1496,6 +1778,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/7Jy58lnT/modernfix-neoforge-5.27.26%2Bmc1.21.1.jar"
+  sha256 = "09f6842c63d14b3f1707f1f4a6f4602052f237f7efa9be135e41d3d97acf2a13"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:twkfQtEc"
@@ -1507,6 +1791,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/twkfQtEc/versions/YfHkk7hg/moonlight-1.21.1-3.7.1-neoforge.jar"
+  sha256 = "0a755b1f5bfc40e1553c55471ebe42096eb537d5c7fa5fb6b5a5f145656604db"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:aC3cM3Vq"
@@ -1518,6 +1804,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9I21YYxf/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+  sha256 = "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:SNVQ2c0g"
@@ -1529,6 +1817,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/SNVQ2c0g/versions/Kpai1paZ/mru-1.0.41%2B1.21.1-neoforge.jar"
+  sha256 = "245ebec0b410fb1a7456bb0cd970ea015fb7c243a0f45a4d79d655dc01bb6d89"
+  targets = ["client"]
 
 [[mods]]
   id = "curseforge:303278"
@@ -1538,6 +1828,8 @@ schema = 1
   mod_id = 303278
   file_id = 7097877
   url = "https://edge.forgecdn.net/files/7097/877/multipiston-1.2.58-1.21.1.jar"
+  sha256 = "7ca26db4648589b7f76694c249d5096c0c0afb7615fe6adf9f638c6c825c15e7"
+  targets = ["client"]
 
 [[mods]]
   id = "minecraft:natevent"
@@ -1547,6 +1839,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   path = "files/mods/natevent-1.0.1.jar"
+  sha256 = "287e9f4600cea87f43aa4d1860eba44ab95de5571629a737998ff32b5cb92b38"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:fPetb5Kh"
@@ -1558,6 +1852,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/fPetb5Kh/versions/nFniEtJV/NaturesCompass-1.21.1-3.4.0-neoforge.jar"
+  sha256 = "0e249ac11b2f916c5570d9679e188da652fa5664ba9cdb7be5dc9ff69497539c"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:RUtQ9kfe"
@@ -1569,6 +1865,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/RUtQ9kfe/versions/cA9nVTuh/neoorigins-2.2.29%2B1.21.1.jar"
+  sha256 = "380dbee9ad8d906e54c12ed5c2d6682688c853dfe2713af54eafc2ceca89df4a"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:M8MasaZG"
@@ -1580,6 +1878,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/M8MasaZG/versions/U3gpLtpO/noisiumed-3.0.6-neoforge-1.21.1.jar"
+  sha256 = "2477347cb18d0d0202984bc4a8d42975bd4fde7e1513627c446abadbb1406957"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:Kiy3hfKZ"
@@ -1591,6 +1891,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/Kiy3hfKZ/versions/Vxje3ff4/nojoinnoleave-1.0.0.jar"
+  sha256 = "738f9fe847260190b78a0f5fc051e002d960ebbe060f6b5938e323bd4d9dec2e"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:4tqbetMf"
@@ -1602,6 +1904,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/4tqbetMf/versions/SoXPH95e/notab-0.0.1.jar"
+  sha256 = "4053afb0535de9d6656c0daf890735d1c80d9601a8f83d0c5d4f00482511f6dc"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:MPCX6s5C"
@@ -1613,6 +1917,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/VCuMsK45/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar"
+  sha256 = "e70609c5638d9f02edfb2c8ec448a7d567345323d7386937c174526aac56cb8f"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:RH2KUdKJ"
@@ -1624,6 +1930,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/RH2KUdKJ/versions/yVCCi6TK/OctoLib-NEOFORGE-0.6.2%2B1.21.jar"
+  sha256 = "92ba07d9d9e55a65421f3c3f203c72fe5149cb024d5277267e81d812e11a7f38"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:aXf2OSFU"
@@ -1635,6 +1943,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/aXf2OSFU/versions/AkPuuAgJ/ok_zoomer-neo-10.0.0-beta.13.jar"
+  sha256 = "61da322358127329d40b36a028faa7d91c370a3708e08becf1f1b8b242c5eb61"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:ccKDOlHs"
@@ -1646,6 +1956,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/ccKDOlHs/versions/NMCHU6DZ/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar"
+  sha256 = "de6ed336bd80154b7241a7b3276694befc1c94550add8bcdfe7f82e5172fd13d"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:RSeLon5O"
@@ -1657,6 +1969,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/RSeLon5O/versions/2QF4NhZD/particle_core-0.3.3%2B1.21%2Bneoforge.jar"
+  sha256 = "38c05981d1dc8428c7ab1130b9ec7f05bca1b70f909aba9c454c9611702a8dda"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:dw7LChq9"
@@ -1668,6 +1982,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/dw7LChq9/versions/VKC3j9lS/PatPat-1.3.1%2B1.21.1%2Bneoforge.jar"
+  sha256 = "f4589ff2b58c08821851d49019ef5ebb7e55c40439727ccca37a70615f0add80"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:8YgFuv6f"
@@ -1679,6 +1995,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/8YgFuv6f/versions/y3JyW37i/ping-to-map-xaero-1.1.2%2Bneoforge-1.21.1.jar"
+  sha256 = "41cda8a5b5bb1bca836fae7cb982f839577f05208b7a05f421b4fbdff97929dc"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:QQXAdCzh"
@@ -1690,6 +2008,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/QQXAdCzh/versions/Zrh2Fmn9/Ping-Wheel-1.12.2-neoforge-1.21.1.jar"
+  sha256 = "fcff3528dfc644dd510e702c51af477c11ddbee07895b9ba906e3f0dbc9c4077"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:gedNE4y2"
@@ -1701,6 +2021,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/gedNE4y2/versions/HJZB6bmA/player-animation-lib-forge-2.0.4%2B1.21.1.jar"
+  sha256 = "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:tagwiZkJ"
@@ -1712,6 +2034,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/tagwiZkJ/versions/9yWvrF5o/polymorph-neoforge-1.2.0%2B1.21.1.jar"
+  sha256 = "4a09b7a3c8ea4f5b79acadb405a18140fe20d882e6930403c46cc7ad49c5ec06"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:5A34Stj8"
@@ -1723,6 +2047,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/5A34Stj8/versions/BqhDf7W8/ponderjs-neoforge-1.21.1-2.4.0.jar"
+  sha256 = "d9139c619cb0fa0a0a3058001c4ca993ecdf955c9aa8a81640bc24702b443466"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:aaRl8GiW"
@@ -1734,6 +2060,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/aaRl8GiW/versions/EE1FHDyD/prickle-neoforge-1.21.1-21.1.11.jar"
+  sha256 = "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:1OE8wbN0"
@@ -1745,6 +2073,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/1OE8wbN0/versions/kMcz2lDj/Prism-1.21.1-neoforge-1.0.11.jar"
+  sha256 = "b6a1e585416c48d7d9fa53fc12c67122ad1f3a6965202b51d4e2c643ffca61c2"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:8aoMKplv"
@@ -1756,6 +2086,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/8aoMKplv/versions/luK5HVTT/punchy-2.8e-neoforge-1.21.1.jar"
+  sha256 = "43f5465aa55d604becdb82e98d8bc8ec5346e7bf104b0bcee8b1032fb048857e"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:qnQsVE2z"
@@ -1767,6 +2099,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/qnQsVE2z/versions/18h0L19k/Quark-4.1-487.jar"
+  sha256 = "2a43e4fa6254aaaf755f4ece5230708a2a6d587d8092d4db3aa53626c7bb67ab"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:zAIE84Ch"
@@ -1778,6 +2112,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/zAIE84Ch/versions/WUgQzLXk/Quick%20Skin%20-%20NeoForge%20-%201.21.1-3.1.0.jar"
+  sha256 = "eebf1186e5808914f9f6bf758f1cca587a3a2c3dabf1457d7eea2ebe4e7f103f"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:L3Jv0QZI"
@@ -1789,6 +2125,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/L3Jv0QZI/versions/czVeSmZo/railways-0.3.0-beta.2%2Bneoforge-mc1.21.1.jar"
+  sha256 = "64b74ddad661deae1cfe7e8334cfa3d39bb8ef7b761f83595ba0476c4a9bb1d5"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:VzR5wiLo"
@@ -1800,6 +2138,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/VzR5wiLo/versions/BYZmHubv/refinedstorage-jei-integration-neoforge-1.0.0.jar"
+  sha256 = "18d858a9309f2cacfa1b32c43142d543b5cfc4e2cb542b66203dd5c81f974c27"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:KDvYkUg3"
@@ -1811,6 +2151,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/KDvYkUg3/versions/lHHiI26k/refinedstorage-neoforge-2.0.9.jar"
+  sha256 = "e9c758dddcdfa9c02a7370ca3f4f972a285a1e38ca434bd1fc15cb223ffa06ab"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:gnwGOmBf"
@@ -1822,6 +2164,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/gnwGOmBf/versions/toDdIhGu/refinedstorage-quartz-arsenal-neoforge-1.0.8.jar"
+  sha256 = "c6f00a8dc5707726a6252aa57690d2b8d90fb350dd7f92817276efc16e8af186"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:OCJRPujW"
@@ -1833,6 +2177,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/OCJRPujW/versions/WKEe9sPL/relics-1.21.1-0.12.8.jar"
+  sha256 = "db6f436053fe717413389e55390a5f98103ccd91cca5fe469e090bdfaef70717"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:qNOCEdeg"
@@ -1844,6 +2190,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/qNOCEdeg/versions/xtS9iqts/reliquified_ars_nouveau-1.21.1-0.8.1.jar"
+  sha256 = "bdcb07f27293260e0d0e4d24df782da0310a6d383aab2d84a02a2d105a078eaf"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:GnU07giL"
@@ -1855,6 +2203,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/GnU07giL/versions/x2qoJkgq/reliquified_artifacts-1.21.1-1.0.8.jar"
+  sha256 = "360fd701d575b5421675bfdc50c6ed8a22614410eb92dd782424f9b5fb5c0006"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:G1hIVOrD"
@@ -1866,6 +2216,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/x99nCLTm/resourcefullib-neoforge-1.21-3.0.12.jar"
+  sha256 = "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:RLzHAoZe"
@@ -1877,6 +2229,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/RLzHAoZe/versions/5KyUPNjh/Resourcify%20%281.21.1-neoforge%29-1.8.7.jar"
+  sha256 = "e36e59e9d4d389809d2ac2701104d64140fdcb7aedf09189b94b9596b8669894"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:sk9knFPE"
@@ -1888,6 +2242,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/sk9knFPE/versions/SqkDvOLG/rhino-2101.2.8-build.91.jar"
+  sha256 = "1d53d962aa4dac54bcbb4f998c1845980cf194318f1d6b1580ea6ac15cce5ef3"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:B3pb093D"
@@ -1899,6 +2255,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar"
+  sha256 = "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:x9SSMbo6"
@@ -1910,6 +2268,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/x9SSMbo6/versions/OYFQ6UZp/rspolymorph-neoforge-1.21.1-1.2.2.jar"
+  sha256 = "b99cd2761c745a60ab9a315fc781c7f05e356858ae9173f4057f62f56abf3e78"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:T9PomCSv"
@@ -1921,6 +2281,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/T9PomCSv/versions/1L6XJqnY/sable-neoforge-1.21.1-2.0.3.jar"
+  sha256 = "da6c3b66238586603d1dcaa2afb012d36815fbce0a2d5938fbb2936701d42279"
+  targets = ["client"]
 
 [[mods]]
   id = "curseforge:1529727"
@@ -1930,6 +2292,8 @@ schema = 1
   mod_id = 1529727
   file_id = 8079771
   url = "https://edge.forgecdn.net/files/8079/771/sable_xaero_bridge-0.1.11.jar"
+  sha256 = "6e742003c27d94d49c6326ff2018655ca87585936ee32e9042d0badc1cdc9bf4"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:jCrJ4iGH"
@@ -1941,6 +2305,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/jCrJ4iGH/versions/cxUohR7A/sablejade-1.3.0.jar"
+  sha256 = "f26e974115226d83ec363e3d327e739c87ded760d781ca0538181094eb4bb9a2"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:sZbcIrJb"
@@ -1952,15 +2318,19 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/sZbcIrJb/versions/Ucq7afTi/sablephysicscompat-1.3.0.jar"
+  sha256 = "d5dbff984a89f63ac76ad9b9bedafbced87b0092f6d8ae90e30142e8427642c6"
+  targets = ["client"]
 
 [[mods]]
-  id = "mod:seaeater"
+  id = "curseforge:9095898"
   version = "2.0.0"
   filename = "seaeater-2.0.0+mc1.21.1.jar"
   source = "curseforge"
-  mod_id = 0
-  file_id = 0
-  url = "https://www.curseforge.com/minecraft/mc-mods/sea-myths"
+  mod_id = 1394035
+  file_id = 9095898
+  url = "https://www.curseforge.com/api/v1/mods/1394035/files/9095898/download"
+  sha256 = "129a86db722f9ecd2ce9a7206621c6c01ccb3433815be0fa90d42eba803b896a"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:fuuu3xnx"
@@ -1972,6 +2342,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/fuuu3xnx/versions/iEE85X0w/Searchables-neoforge-1.21.1-1.0.2.jar"
+  sha256 = "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:2M01OLQq"
@@ -1983,6 +2355,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/2M01OLQq/versions/IuqNIoAi/shulkerboxtooltip-neoforge-5.1.9%2B1.21.1.jar"
+  sha256 = "36c6ab0fd4b6e684e2d554c67d783067dced9906cfd2b75cae56dd9ede53407a"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:fzSKSXVK"
@@ -1994,6 +2368,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/fzSKSXVK/versions/tHyCDNNH/SimpleBackups-1.21-4.0.30.jar"
+  sha256 = "0c322781b3c559f7d2c62ac87eb9d7ce459f3f3b5ab771a8794d009b42c729ec"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:S7b8mMXS"
@@ -2005,6 +2381,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/S7b8mMXS/versions/voNh2a0L/simpleradio-neoforge-1.21.1-4.5.7.9.jar"
+  sha256 = "9a1a46cfdfb4c876de48a49149ae30879a6b23831f415cee76fc3e86e1c84ac8"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:iAWmQpER"
@@ -2016,6 +2394,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/iAWmQpER/versions/JcufHZkm/simplycataclysm-1.0.2%2B1.21.1%2Bneoforge.jar"
+  sha256 = "eabcec8178fd05f24d1213d6649888fda6ba9df7b3b6cfebb5a719913b2a14a0"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:bK3Ubu9p"
@@ -2027,6 +2407,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/bK3Ubu9p/versions/nS0Yahr5/simplyswords-neoforge-1.70.2-1.21.1.jar"
+  sha256 = "5e75bd66ea489079d60c9c1ed98762550fbc0bee88cd7af399f17bbeb56608c3"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:6avVoBVB"
@@ -2038,6 +2420,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/6avVoBVB/versions/Zb6dytvm/SimplyTooltips-neoforge-0.1.5.jar"
+  sha256 = "fdac367da1c5243ac5225f00f831b786817452ee9fa6a7f4acd99ec819b0f2b7"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:GmjmRQ0A"
@@ -2049,6 +2433,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/GmjmRQ0A/versions/D6mQaFRW/sliceanddice-4.3.4-neoforge.jar"
+  sha256 = "b3982e89611761d7f1cdce90794cd88498a2c9e1447d8a1aba33ed831f3c9201"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:AANobbMI"
@@ -2060,6 +2446,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar"
+  sha256 = "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:TyCTlI4b"
@@ -2071,6 +2459,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/TyCTlI4b/versions/1pYxRkKq/sophisticatedbackpacks-1.21.1-3.26.9.2195.jar"
+  sha256 = "de4a51eb3757ee273b56a41620d6598cd3af8578a5a02c4b5a784e42ab4bee2b"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:s85zLEDe"
@@ -2082,6 +2472,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/s85zLEDe/versions/mQ9mijSt/sophisticatedbackpackscreateintegration-1.21.1-0.2.2.188.jar"
+  sha256 = "812e1afcb89485c8deebd34e273db6eabdf69dc90c77e44d7861cc6fe5936ae8"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:nmoqTijg"
@@ -2093,6 +2485,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/nmoqTijg/versions/p09oohxN/sophisticatedcore-1.21.1-1.5.7.2381.jar"
+  sha256 = "33ff373cd62e2bef84ca5dd18ffea1c7508842a3156d021f1a0101063f69fb39"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:qyVF9oeo"
@@ -2104,6 +2498,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/Dd2tmpsk/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
+  sha256 = "bddc71ecd4f074a101eb3785599d13c69e64025e1029aa0fd0a28fcf9bccf2ea"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:ZouiUX7t"
@@ -2115,6 +2511,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/kti7i9SG/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar"
+  sha256 = "d3bda0a7a5b1f267747da182e788139da380f625eaf96a5c2a8fa5bcb8d908b7"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:l6YH9Als"
@@ -2126,6 +2524,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-neoforge.jar"
+  sha256 = "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:LTTvOp5L"
@@ -2137,6 +2537,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/LTTvOp5L/versions/7I2UUB9l/storagedelight-26.09.17-1.21-neoforge.jar"
+  sha256 = "74f4dee19ead930a8128aa70677b62cf444bf78b3b5d224c1aca722a829a4830"
+  targets = ["client"]
 
 [[mods]]
   id = "curseforge:298744"
@@ -2146,6 +2548,8 @@ schema = 1
   mod_id = 298744
   file_id = 9017852
   url = "https://edge.forgecdn.net/files/9017/852/structurize-1.0.835-1.21.1-snapshot.jar"
+  sha256 = "3550454615510a141b92b0f78fa39dbf8bef81361ecd2974a431978fd7d181ad"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:sHO3MhQx"
@@ -2157,6 +2561,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/sHO3MhQx/versions/BOTN7zzN/struts-1.3.1.jar"
+  sha256 = "21002a8b6881a3d08da74f03f29ab23551db50d755d7e75b8b94847511d9a863"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:fFEIiSDQ"
@@ -2168,6 +2574,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/WrZWfRjP/supplementaries-1.21.1-3.9.9-neoforge.jar"
+  sha256 = "d6876ad959d0da4bab0ba182839a0af0e38ef3571345e5e7aea0be572f958e05"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:OypNE65K"
@@ -2179,6 +2587,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/OypNE65K/versions/62q6mB5Q/tacz-neoforge-1.21.1-1.1.8-hotfix-r7.jar"
+  sha256 = "fa3a09f15265a4065a566960a8deab315f6c601a5f9a542840b362d455dd5470"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:jgOzA8I4"
@@ -2190,6 +2600,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/jgOzA8I4/versions/maK19KHR/tacz_aero_compat-1.8.0.jar"
+  sha256 = "eeaf541cea48a983939e80ccf0953262abcd1e71c839d1914184f768b0901f17"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:lWDHr9jE"
@@ -2201,6 +2613,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/n4iyW7aB/tectonic-3.0.28-neoforge-21.1.jar"
+  sha256 = "cf188c70e7dd94f6e3a81cef9fe99f1151f13217809f7576aaedb0c3e6547ae1"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:8oi3bsk5"
@@ -2212,6 +2626,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/8oi3bsk5/versions/IY93YaEe/Terralith_1.21.1_v2.6.2_Neoforge.jar"
+  sha256 = "d38bd304897731b42f6c013cdc07e082e74411e80c74aabcee385251beb3b546"
+  targets = ["client"]
 
 [[mods]]
   id = "curseforge:900364"
@@ -2221,6 +2637,8 @@ schema = 1
   mod_id = 900364
   file_id = 5653504
   url = "https://edge.forgecdn.net/files/5653/504/towntalk-1.2.0.jar"
+  sha256 = "98139f54cc0f6f4be6d7fa8927cd170df8b14545ae04643436dbd48517589eb4"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:iPv9VoMI"
@@ -2232,6 +2650,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/iPv9VoMI/versions/V4hhNZeU/tracks-neoforge-1.21.1-1.0.1.jar"
+  sha256 = "b126b2522a129c13ebec6491b8602726bad9a3df201cf906468ba583796125c8"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:vRYk0bv7"
@@ -2243,6 +2663,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/vRYk0bv7/versions/HY8Ybozd/trashslot-neoforge-1.21.1-21.1.11.jar"
+  sha256 = "61fdb5de0fc3d36db0e5dd82c2e03341e449bbc47ce13eeab834b05596b7bb5b"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:JtifUr64"
@@ -2254,6 +2676,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/JtifUr64/versions/2y01mBUy/TravelersTitles-1.21.1-NeoForge-5.1.3.jar"
+  sha256 = "f7d6811b58a432e4d7f0e80bfcc48210f7a8da251d1c3e528a73c26d0f2a56ed"
+  targets = ["client"]
 
 [[mods]]
   id = "curseforge:1010827"
@@ -2263,6 +2687,8 @@ schema = 1
   mod_id = 1010827
   file_id = 8682870
   url = "https://edge.forgecdn.net/files/8682/870/uranus-3.0-beta.1.jar"
+  sha256 = "3ab2a8c474aa306cc139ea03e343b20c0267b4887dedc05eed43968a8aed9232"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:9eGKb6K1"
@@ -2274,6 +2700,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/qqNx1Yjm/voicechat-neoforge-1.21.1-2.6.24.jar"
+  sha256 = "7af3bbc34948cc0f833946fd4b0d2db7ed608f67a12702be4df6f731a4b66290"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:E0SdeAoH"
@@ -2285,6 +2713,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/E0SdeAoH/versions/Z3Ic8n5N/wakes-1.21.1-NeoForge-1.4.1.jar"
+  sha256 = "120b95470ed306fe8681ad0df732034ac80d3a5ee426d7f9dfb1af1ef2fc3dcd"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:1bokaNcj"
@@ -2296,6 +2726,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/irjR7dHk/xaerominimap-neoforge-1.21.1-26.6.0.jar"
+  sha256 = "d3398221b2262abfe2d394b588122e5b3fd2e4d8c4bf66a5fd357352fcf51b2e"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:NcUtCpym"
@@ -2307,6 +2739,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/SnQ4SoDe/xaeroworldmap-neoforge-1.21.1-1.47.0.jar"
+  sha256 = "6a42b6f01bd96b496e5fcc07d4541bad1a699d9ec8ad58ad40d5dcfe23a7d4c7"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:1eAoo2KR"
@@ -2318,6 +2752,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar"
+  sha256 = "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:Ua7DFN59"
@@ -2329,6 +2765,8 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/Ua7DFN59/versions/2prKITKh/YungsApi-1.21.1-NeoForge-5.1.9.jar"
+  sha256 = "375e0b2f988ab4f5bde182166c0f0b102377adc8f823660c24ade08b0b3cde56"
+  targets = ["client"]
 
 [[mods]]
   id = "modrinth:MVARlG2f"
@@ -2340,3 +2778,5 @@ schema = 1
   mod_id = 0
   file_id = 0
   url = "https://cdn.modrinth.com/data/MVARlG2f/versions/9GjNW2Gf/Zeta-1.1-40.jar"
+  sha256 = "4f17d1a2b9fd6d18ddb7697aa451db7fb154053b8648f79de279ae0d7e68a2fa"
+  targets = ["client"]
